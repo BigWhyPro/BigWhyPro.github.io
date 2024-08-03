@@ -1,1 +1,1 @@
-KNOW your WHY ... that means the FULL Ishikawa cause-and-effect diagram for multiple facets of that WHY and at least five levels of WHY for each facet's branch
+KNOWING your WHY...means that you are continually journalling and re-mapping out the FULL Ishikawa cause-and-effect diagram for multiple facets of that WHY and at least five levels of WHY for each and every facet's branch
