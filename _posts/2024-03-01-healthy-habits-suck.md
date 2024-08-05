@@ -10,7 +10,9 @@ categories: template
 
 Working on your discipline is ONLY thing that you really have in this existence.
 
-To make a long story short ... you really don't ***have to*** work on your discipline ... if you don't want to work on your discipline any more, you can completely *check out*.
+To make a long story short ... you really don't ***have to*** work on your discipline ... you can just coast and then die.
+
+If you don't want to work on your discipline any more, you can completely *check out*.
 
 
 # Healthy Habits Are NECESSARILY going to suck
