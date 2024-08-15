@@ -6,15 +6,19 @@ categories: template
 ---
 
 
+No plan survives confrontation with the enemy ... but going into a confrontation with an enemy without a plan is a sure way to lose -- of course, your plan will REQUIRE constant adaptation, revision and improvement -- it is the plan**NING** process that wins; it's not about static plans ; you will LOSE before you get started if you confront an enemy without any plan or with a fixed plan that does not anticipate the need for currently unforeseen revisions.
+
 # Sharpen the axe
 
-Plan each day in order to optimize each of the other time blocks.
+Habits and habit stacking win fights. Make habit stacking your core competency.
+
+Use one of your 30 minute time blocks each day in order to PLAN.  Use one of your 30 Pomodoros to focus with fury on planning each coming day in order to optimize each of the other 29 time blocks.
 
 When we FAIL to set our agenda, something else will. When we're addicted to material SHIT or someother kind of fritterware, we might as well be a junkie or crack addict.
 
 # Optimize means embrace the daily grind
 
-How Do We Overcome Tedium?
+How Do We Overcome Tedium or Complacency or Arrogance?  The arrogance, we're speaking of comes from thinking something like, "This is no challenge; I've done this before a bajillion times; I don't have to worry about planning or continuous improvement -- I'm as good at this as there is!
 
 It's a VERY SERIOUS question ... we might even say that it is a *deadly* serious question. There *might* not be ANY question that is more important.
 
