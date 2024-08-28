@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Develop Your Own VISUAL Approach to Autodidactic Coaching"
-date:   2024-07-01 4:30:00
+date:   2024-08-01 4:30:00
 categories: template
 ---
 
