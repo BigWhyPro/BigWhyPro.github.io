@@ -20,7 +20,13 @@ We can best illustrate how to USE AI by looking at how we use AI to develop the 
 
 Let's work on breathwork ... and let's USE AI to help us autodidactically become much more knowledgeable about breathwork ... so that we can *at least* begin to formulate the kinds of questions that we might ask of a respiratory physiologist and breathwork specialist an intelligent question about improving our own breathwork practice.
 
-### Ask an AI for a map, then practice, after you have practiced ask an AI to elaborate or go deeper
+We can use AI to pick up where others have left off and build upon our practice in breathwork. As our practice deepens, we can broaden our knowledge by asking more questions of our AI assistants.
+
+### Develop HYBRID intelligence
+
+The basic strategy is to ask an AI for a basic roadmap or overall view of a topic, then we drive forward by implementing our understanding with our own very basic practice ... but we don't really LEARN something until we have done it or taught it to ourselves ... after we have deepened our knowledge **through our own practice**, we then ask an AI to elaborate further and to extend our base or broaden our knowledge, but we should stress that our knowledge does not *take root* until we have implemented it in our own practice.
+
+When we are working on a larger topic like breathwork and respiratory physiology, we start by creating a [Claude AI project](https://www.anthropic.com/news/projects) to get past cold starts and allow us to ground Claude’s outputs in our internal knowledge: style guides, codebases, interview transcripts, or past research and experimentation ... of course, we will add things like med school text and medical literature. As we are able to add digital context, we help to enable Claude to provide expert assistance across tasks in [breathwork, cardiovascular health, physiological oxygenation and neuroscience](https://claude.ai/project/b45f024a-5ae1-4075-9a4d-7e5e144da8e1)... the particular goal of this Claude AI project is for us to become more sustainably cognitively healthy, but, course, that depends upon being sustainably physiologically more healthy over all. The purpose of this project is to understand oxygenation, cardiovascular health, exercise/diet and especially the role that a variety of breathwork exercises play in cognitive health.
 
 EXTENDED breath cycles have profound effects on the body and the mind ... it's **ABSOLUTELY NOT** magic or anything remotely like something having to do with sacred texts or ancient hidden occult practices of shamans and priests, ie *that's just marketing or anti-marketing* ... ***EXTENDED BREATH CYCLES ARE JUST SIMPLE [or relatively simple] BIOCHEMISTRY and THE NEUROSCIENCE OF THE BRAIN WHICH AN ORGAN THAT IS ESPECIALLY SENSITIVE TO CHANGES IN BLOOD BIOCHEMISTRY,*** ie *so either extra oyxgen or oxygen deprivation might indeed* ***feel*** *like it's magic.*
 
