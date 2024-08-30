@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Make this Fraility Index YOURS"
+title:  "Make this Fraility Index Your Own"
 date:   2024-08-01 4:30:00
 categories: template
 ---
@@ -8,13 +8,17 @@ categories: template
 
 *If your Creator rests only the Sabbath, then why aren't you creating every day? How did you become so sedentary, so FRAIL?*
 
-# Make this Fraility Index YOURS
+# Make this Fraility Index Your Own
 
-The Frality Index [FI] that I am developing WILL change ... it is in an EARLY STATE OF DEVELOPMENT ... this post is only about the gist of the theory behind this fraility index.
+Understand the principle, then build your own ... you are welcome to clone this Frality Index [FI], but your Fraility Index has to be your own.
 
-The medical profession has all kinds of suggested screenings and various sorts of bloodwork that are recommended ... based on the fact that these things generate revenue and keep labs and hospital beds at capacity.
+What I currently think of as being frail, or something that I wish to avoid, will not match your ideas of fraility ... and over time, my own ideas of what fraility means will change.
 
-To its credit, the medical profession developed several FRAILITY INDEX metrics, for example [see link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4499935/) ... you can look at medical literature on various different fraility indices, but a consistent self-serving pattern still emerges ... the medical FI almost always based upon bloodwork or some sort of professional assessment, eg, probing by a professional in  a clinic's anal love nest, which is calculated to result in more trips to the doctor or more swallowing of the pharmaceuticals.
+That's ok ... whatever I am developing WILL change, but I will still have the early sources to go back to.  Right now, my Fraility Index is in an EARLY STATE OF DEVELOPMENT ... this post is only about the gist of the theory behind this fraility index.
+
+The medical profession has all kinds of suggested screenings and various sorts of bloodwork that are recommended ... it's fine and dandy to get all geeked out over the lab gear and the biochemistry that only nerds know ... but you should really that most of the medical diagnostic industry is based on the fact that these things generate revenue and keep labs and hospital beds at capacity -- even the personal medical diagnostic industry full of great companies like Keto-Mojo is still necessarily based on continuing to generate revenue by selling you test strips and lancets and consumable supplies.  This is all just *fine* ... but you **HAVE TO** ***UNDERSTAND*** *the business model of people* ***selling*** *you products and ongoing services.* **KNOW that you are being SOLD.**
+
+To its credit, the medical profession is still very much populated by people who got into the profession because they were called to the mission of about making patients healthy and, as such, some of those professionals continue to develop things like FRAILITY INDEX metrics, for example [see link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4499935/) ... you can look at medical literature on various different fraility indices, but a consistent self-serving pattern still emerges ... the medical FI almost always based upon bloodwork or some sort of professional assessment, eg, probing by a professional in  a clinic's anal love nest, which is calculated to result in more trips to the doctor or more swallowing of the pharmaceuticals.
 
 My fraility index is much more INTENTLY practical ... it's kind of simple, but it's difficult in practice to stay on top of CONSISTENTLY ... because it is not an automated gadget [although it can incorporate data from gadgets] because it's based on human body measurement equipment, ie a trained, motivated brain connected to an actual aging body in various states of eustress, stress and pain ... the system uses the stuff which we are all born with, but it requires that we USE the equipment and pay attention to our intentions and exertion as we use it.
 
