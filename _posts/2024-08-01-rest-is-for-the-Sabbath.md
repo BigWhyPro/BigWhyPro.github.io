@@ -8,6 +8,8 @@ categories: template
 
 *If your Creator rests only the Sabbath, then why aren't you creating every day? How did you become so sedentary, so FRAIL?*
 
+Part of what we do during our periods of ***PHYSICAL*** rest throughout the day is think intently, deeply about how we can be less frail and more productive when we are not resting.
+
 # Make this Fraility Index Your Own
 
 Understand the principle, then build your own ... you are welcome to clone this Frality Index [FI], but your Fraility Index has to be your own.
