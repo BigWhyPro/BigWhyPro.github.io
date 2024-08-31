@@ -8,6 +8,8 @@ categories: template
 
 # Cheat! Steal lifehacks that work! 
 
+Right now ... there's a A LOT of [awesome work being done with AI agents](https://github.com/e2b-dev/awesome-ai-agents) ... some of the best stuff includes [open source AI agent projects](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file#open-source-projects) ... but we should not rule out looking at the [closed-source projects and proprietary companies showcasing their tools](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file#closed-source-projects-and-companies), *typically in a freemium or available at very affordable subscription prices.*
+
 NEVER settle; never get complacent ... ***ALWAYS BE FLANKING*** your own mindset. Develop ways to force yourself to get better self-awareness.
 
 Based on your experience with time mgmt and organizational toolchains, experiment with new systems of time mgmt and organization.
