@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Develop Your Own VISUAL Approach to Autodidactic Coaching"
+title:  "CONSISTENCY trumps perfection"
 date:   2024-09-01 4:30:00
 categories: template
 ---
