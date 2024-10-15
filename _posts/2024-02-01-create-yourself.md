@@ -5,6 +5,7 @@ date:   2024-02-01 4:30:00
 categories: template
 ---
 
+*How does [Cursor tab](https://www.cursor.com/cpp) work?  What is autocomplete in Cursor? How do I use it?*
 
 # The Essence of Creativity is Creating ... Begin By Creating Yourself
 
