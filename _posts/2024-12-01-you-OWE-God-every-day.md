@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Begin Every Day With Gratitude"
-date: 2024-12-01
+date: 2024-12-01 4:30:00
 categories: template
 ---
 
