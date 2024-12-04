@@ -51,7 +51,7 @@ EXPLAIN why/how each of [Momentum Plus features](https://get.momentumdash.help/h
 
 + [Ask AI](https://get.momentumdash.help/hc/en-us/articles/115015748548-Momentum-Plus-Overview#h_01HCXR3JMH3E5ZGVJ2NTYXR6AJ) ... there's a limit of 100 requests/day and 500 tokens per response, but it's only a browser quickie feature, so can can switch to my Claude or Gemini or Grok AI accounts for heavier AI lifting
 
-+ [Autofocus](https://get.momentumdash.help/hc/en-us/articles/115015748548#h_01HBEMB78G49W6XMGDHH33G2MN) ... works with [Momentum's Todo integrations](https://get.momentumdash.help/hc/en-us/articles/360016569593-Todo-Integrations-Overview)
++ [Autofocus](https://get.momentumdash.help/hc/en-us/articles/115015748548#h_01HBEMB78G49W6XMGDHH33G2MN) ... works with [Momentum's Todo integrations](https://get.momentumdash.help/hc/en-us/articles/360016569593-Todo-Integrations-Overview) ... such as the [GitHub integration]https://get.momentumdash.help/hc/en-us/articles/115014781807-GitHub() which can be set up to sync with the issues in your GitHub repositories using Momentum's Todo.
 
 + Countdowns
 
