@@ -45,7 +45,7 @@ remember the best practices for gratitude journaling:
 It just has to be something NEW [***to YOU, not the rest of the world***]... that YOU will explore in a bit of depth TODAY.
 
 
-FOR EXAMPLE ... this might seem really silly, but TODAY I am grateful for [Momentum Plus](https://momentumdash.com/plus) ... and all of [the various features, integrations, and customization options that Momentum Plus offers and why you expect that those silly little features and options will actually help you level-up the productivity of your workflow a bit every day.](https://get.momentumdash.help/hc/en-us/articles/115015748548-Momentum-Plus-Overview)
+FOR EXAMPLE ... this might seem really silly, but TODAY I am grateful for [Momentum Plus](https://momentumdash.com/plus) ... and all of [the various features, integrations, and customization options that Momentum Plus offers and why you expect that those silly little features and options will actually help you level-up the productivity of your workflow a bit every day.](https://get.momentumdash.help/hc/en-us/sections/360002557934-Feature-Guides)
 
 EXPLAIN why/how each of [Momentum Plus features](https://get.momentumdash.help/hc/en-us/articles/115015748548-Momentum-Plus-Overview) will help me level-up my productivity a bit every day.
 
@@ -53,11 +53,11 @@ EXPLAIN why/how each of [Momentum Plus features](https://get.momentumdash.help/h
 
 + [Autofocus](https://get.momentumdash.help/hc/en-us/articles/115015748548#h_01HBEMB78G49W6XMGDHH33G2MN) ... works with [Momentum's Todo integrations](https://get.momentumdash.help/hc/en-us/articles/360016569593-Todo-Integrations-Overview) ... such as the [GitHub integration]https://get.momentumdash.help/hc/en-us/articles/115014781807-GitHub() which can be set up to sync with the issues in your GitHub repositories using Momentum's Todo.
 
-+ Countdowns
++ [Countdowns](https://get.momentumdash.help/hc/en-us/articles/360012257654-Countdown) counts down the amount of time remaining before your upcoming appointments, deadlines, and events.
 
-+ Custom Photos, Quotes & Mantras
++ [Custom Photos, Quotes & Mantras](https://get.momentumdash.help/hc/en-us/articles/360016605914-Custom-Photos-Quotes-Mantras)
 
-+ Custom schedule for Balance mode
++ Custom schedule for Balance mode ... Do I have clear boundaries with my time? Do I plan or make time for rest, time off, and activities or people I enjoy? What are my non-negotiables? What is my "warning sign" (eg stress eating) when it comes to responds to stress? ... HOW do I schedule in enough time for prayer, meditation, exercise, long hikes in Nature and other activities that are important to my soul?
 
 + Extra weather info
 
