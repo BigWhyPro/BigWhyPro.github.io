@@ -1,21 +1,27 @@
 ---
 layout: post
-title:  "Create Yourself, Create Your Ventures"
-date:   2024-02-01 4:30:00
+title:  "Create Yourself, Create Your Ventures, Create Your Day"
+date:   2025-02-01 4:30:00
 categories: template
 ---
 
-*How does [Cursor tab](https://www.cursor.com/cpp) work?  What is autocomplete in Cursor? How do I use it?*
+*How does [Sourcegraph Code Intelligence and Cody](https://sourcegraph.com/pricing) work at different levels?  What might autocomplete look like in IDE that I use to create my workflow? How can I use it to* **MORE INTELLIGENTLY** go about the process of create my day?*
 
-# The Essence of Creativity is Creating ... Begin By Creating Yourself
+# The Essence of Creativity is Creating ... Begin By Creating Yourself ... First, Create Your DAY
 
-You have a Creator who created you in that Creator's image ... LOVE your Creator by doing the best job that you can to create yourself.
+You have a Creator who created you in that Creator's image ... LOVE your Creator by doing the best job that you can to create yourself ... that's a HUGE enough challenge, so FIRST just work on CREATING your DAY.
 
-You were brought into existence so that you might have a more full life and through the grace of the God lead an exemplary life in a manner that spreads adundance for others.
+Start your DAY off at 4 AM with Holy HOUR ... pray that the WILL of your Creator be done ... pray that you be given the guideance, serendipitous awareness and opportunities so that you might do your designated part to serve that will ... this is entirely about HUMILITY first, not about your needs/wants OR the needs/wants of any other human being. You were brought into existence so that you might have a more full life and through the grace of the God lead an exemplary life in a manner that spreads adundance for others.
+
+AFTER you have started off correctly with HOLY HOUR ... in the five peak hours, timeblock and prioritize the 10 big things that you need to do today ... that should leave you with approximately 10 hours of purely creative time ... during the times, when you are taking a break from putting a dent in the hard, necessary things that you might not otherwise do unless you've timeblocked slot for them ... work CREATIVELY on your your writing, your reading, your code and the art of being YOU ... the **important thing is to renounce everything else** that doesn't HAVE TO BE DONE or is not a creative pursuit.
 
 # Don't Worry, As Long As You Keep The Channel Open [Through Prayer] Your Creator Will Keep You On Track
 
-Whether you accept it or not, the very fact of your existence is the evidence that your existence is part of the larger creative flow of your Creator ... but it can matter to you, but only if you develop a constant prayerful relationship with your Creator ... and we should never forget that this is a matter of submission and listening rather than a matter of commanding or begging/receiving. 
+HOLY HOUR is supremely important for creating your day.
+
+Whether you accept it or not, it doesn't matter ... fake your acceptance and try to act as if you accept it until you do accept it.
+
+The very fact of your existence is the evidence that your existence is part of the larger creative flow of your Creator ... but it can matter to you, but only if you develop a constant prayerful relationship with your Creator ... and we should never forget that this is a matter of submission and listening rather than a matter of commanding or begging/receiving. 
 
 It's important for us as Christians to understand that Jesus was very explicit in distinguishing his approach from that of a thief or tax collector ... [Jesus Christ is about ABUNDANCE](https://biblehub.com/commentaries/john/10-10.htm). It is important to UNDERSTAND that the parables about the miracles of loaves and fishes is about ABUNDANCE ... the parable is not about begging or devising a fundraising scheme or collecting money from well-heeled, but guilt-addled contributors in order to finance a poverty mission outside of the good part of town ... the MOST disgusting, most pathetic humans are the affluent and those collect taxes and dues from the affluent, so that the affluent never have to hang out with the poor, the disgraced or the lepers. 
 
