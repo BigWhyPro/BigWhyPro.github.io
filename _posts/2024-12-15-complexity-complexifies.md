@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Thorium, How Complexity Complexifies, and BREAKTHROUGHS"
+title: "Thorium, How Complexity Complexifies, and Overcoming Distraction, Procrastination, and Inertia"
 date: 2024-12-15
 categories: template
 ---
 
 
-It's almost self-evidently obvious that **BREAKTHROUGH materials science developments** will make all kinds of technological hurdles SIMPLER to overcome ... but, of course, breakthroughs are breakthroughs because they are necessarily so incredible HARD, if not nearly impossible. *Alchemy ain't easy.*
+It's almost self-evidently obvious that **BREAKTHROUGH materials science developments** will make all kinds of technological hurdles SIMPLER to overcome ... but, of course, breakthroughs are breakthroughs because they are necessarily so incredible HARD, if not nearly impossible. *Never mind the Manhattan Project, real alchemy has never been that easy or straightforward.*
 
 For example ... consider the case of thorium technology ... I asked Claude AI to please gather the latest [within the last year] news on thorium reactors, in order to get a feel for the conventional wisdom underlying the consensus technical understanding of the health of the movement to make thorium reactors a reality. I asked that Claude's answer be written at Level 6 of Bloom's Taxonomy in order to push the LLM toward the kinds of materials that are not just rehashed populist gossip rag trash reportage that gets trotted out whenever some POTUS candidate espouses the thorium movement. I also requested that Claude discuss **in greater detail** the legitimacy of showstoppers that promise to make thorium technology unfeasible over the next 50 years? If these are truly better alternatives that Claude is aware of, I asked why isn't their implementation and percentage of power generation advancing more rapidly?
 

@@ -8,6 +8,11 @@ categories: template
 
 # The Full Ishikawa of WHYS or Interest Shaping My WHY
 
+**WHY do I do** ***anything?*** 
+
+***WHY***, for instance, *should I bother to get out of bed in the morning?* In my case, the BIG WHY of my existence is about better understanding and serving my Creator ... or what humans typically call "God" ... this is NOT a matter of faith ... I exist, I did not bring myself into existence, so there must be a Creator or some sort of Creative Enity which did ... I serve the God, which is the ORIGIN of all things, not as a matter of faith, but as a matter of inescapable logic ... the ORIGIN of all things exists, or else, one's existence is necessrily an illusion or fantasy. By contrast [to the inescapable, necessary Reality of an ORIGIN or Originator or Creator] ... as a matter of personal FAITH, I am a Christian ... Jesus Christ is my Lord, Savior and KING -- as a matter of FAITH, I believe that the ONLY way for me to serve the Creator is through the person [and His lessons of human experience] of Jesus Christ and, more directly, through his personal advocate, the Holy Spirit.
+
+My BigWHY informs my AI project, BigWhy.AI. BigWhy.AI is about a meta-algorithm [or algorithm of algrithms] that relies upon continual refinement and tweaking of data driving a [mixture of experts](https://en.wikipedia.org/wiki/Mixture_of_experts) approach. This requires a familiarity with the various [ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning) in deep learning which use continuosly-tuned [statistical predictive inference](https://en.wikipedia.org/wiki/Statistical_inference#Prediction) approaches to constantly *recalibrate the scope* to shoot better for more efficiently hitting desired knowledge targets. Without getting lost in the details, this generally relies upon techniques such as [cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)), [bootstrap aggregating](https://en.wikipedia.org/wiki/Bootstrap_aggregating) and [bagging](https://www.connectedpapers.com/main/c7fae877d44d07b9900b1d1025a1ee9bbf12b7b2/The-Theory-Behind-Overfitting%2C-Cross-Validation%2C-Regularization%2C-Bagging%2C-and-Boosting%3A-Tutorial/graph) to tweak, readjust and improve the predictive power of the statistical inference from AI training models.
 
 # The Fundamental WHY of my WHYs
 
