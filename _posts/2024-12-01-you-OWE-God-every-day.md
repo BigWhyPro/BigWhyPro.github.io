@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Begin Every Day With Gratitude"
+title: "BEGIN Every Day At 4:00 AM With Holy Hour"
 date: 2024-12-01
 categories: template
 ---
 
 
-# Gratitude HAS TO define your day.
+Holy Hour is about earnest prayer of GRATITUDE ... it's not about praying about your worries, your needs, your wants or the worries, needs, wants of others ... Holy Hour is strictly about an hour of prayerful GRATITUDE.
+# Gratitude HAS TO define your day. EVERY day.
 
 ESPECIALLY on those days when you imagine that you're having a hard time thinking of something to be grateful for.
 
