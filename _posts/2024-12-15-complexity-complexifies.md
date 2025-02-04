@@ -5,12 +5,19 @@ date: 2024-12-15
 categories: template
 ---
 
+*You might want to scroll down and skip to the list of 250 things to overcome distraction, feelings of helplessness, procrastination, and feelings of inertia or being stuck in the same old rut.
+
+# Introductory Background
 
 It's almost self-evidently obvious that **BREAKTHROUGH materials science developments** will make all kinds of technological hurdles SIMPLER to overcome ... but, of course, breakthroughs are breakthroughs because they are necessarily so incredible HARD, if not nearly impossible. *Never mind the Manhattan Project, real alchemy has never been that easy or straightforward.*
 
-For example ... consider the case of thorium technology ... I asked Claude AI to please gather the latest [within the last year] news on thorium reactors, in order to get a feel for the conventional wisdom underlying the consensus technical understanding of the health of the movement to make thorium reactors a reality. I asked that Claude's answer be written at Level 6 of Bloom's Taxonomy in order to push the LLM toward the kinds of materials that are not just rehashed populist gossip rag trash reportage that gets trotted out whenever some POTUS candidate espouses the thorium movement. I also requested that Claude discuss **in greater detail** the legitimacy of showstoppers that promise to make thorium technology unfeasible over the next 50 years? If these are truly better alternatives that Claude is aware of, I asked why isn't their implementation and percentage of power generation advancing more rapidly?
+For example ... consider the case of thorium technology ... rather than a wholesale replacement of current nuclear technology, R&D and practical demonstration-sized thorium MAY find its niche in specific applications where its advantages outweigh the implementation challenges ... mostly, something like thorium technology is an illustrative example that helps us think about the skills we need to overcome inertia, anxiety, procrastination and just generally ***being stuck***. It's not the answer to everything ... it's JUST a useful example to illustrate the kinds of problem-solving that probably take decades, if not centuries.
 
-The cliffnotes version of the answer, including follow-up questions to the first answer is that ...*Alchemy ain't easy* and that **BREAKTHROUGH materials science developments** really will make all kinds of technological hurdles SIMPLER to overcome ... and we can bet that *there really IS serious computational power and serious material science expertise dedicated to this right now.*
+I asked Claude AI to please gather the latest [within the last year] news on thorium reactors, in order to get a general feel for the conventional wisdom underlying the consensus technical understanding of the health of the movement to make thorium reactors a reality. I asked that Claude's answer be written at Level 6 of Bloom's Taxonomy in order to push the LLM toward the kinds of materials that are not just rehashed populist gossip rag trash reportage that gets trotted out whenever some POTUS candidate espouses the thorium movement. I also requested that Claude discuss **in greater detail** the legitimacy of showstoppers that promise to make thorium technology unfeasible over the next 50 years? 
+
+You can do this recursive, deeper-dive questioning with ANY AI assistant on any topic ... remember thorium is ONLY an example to help us understand something about how inertia creeps in, how people blame lack of progress on complexity or lack of an easy button ... if these are truly better alternatives that Claude is aware of, I asked why isn't their implementation and percentage of power generation advancing more rapidly?
+
+The cliffnotes version of the answer, including follow-up questions to the first answer is that ...*Alchemy ain't easy* and that **BREAKTHROUGH materials science developments** really will make all kinds of technological hurdles SIMPLER to overcome ... and we can bet that *there really IS serious computational power and serious material science expertise dedicated to this right now.*  THERE HAS TO BE.
 
 # A Critical Assessment of Thorium Nuclear Technology: Progress, Barriers, and Future Viability
 
@@ -87,10 +94,10 @@ The technology's future viability will likely depend on:
 2. Significant changes in uranium availability/cost
 3. Substantial policy intervention to overcome systemic barriers
 
-Rather than a wholesale replacement of current nuclear technology, R&D and practical demonstration-sized thorium MAY find its niche in specific applications where its advantages outweigh the implementation challenges ... mostly, something like thorium technology is an illustrative example that helps us think about the skills we need to overcome inertia, anxiety, procrastination and just generally ***being stuck***. It's not the answer to everything ... it's JUST a useful example to illustrate the kinds of problem-solving that probably take decades, if not centuries.
 
 
-# Techiniques To Try In Overcoming Distraction, Helplessness, Procrastination, and Inertia
+
+## Techiniques To Try In Overcoming Distraction, Helplessness, Procrastination, and Inertia
 
 The following is a ***STARTER*** list for thinking about your own **250 Christian techniques** that help you overcome distraction, lack of focus, procrastination, and feelings of being stuck. 
 
