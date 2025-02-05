@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Overcoming Distraction, Helplessness, Procrastination, and Inertia"
-date: 2024-12-15
+date: 2024-05-01
 categories: template
 ---
 
