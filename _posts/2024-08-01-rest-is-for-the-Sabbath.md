@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Make this Fraility Index Your Own"
+title:  "Rest On The Sabbath [To Consider Your Fraility]"
 date:   2024-08-01 4:30:00
 categories: template
 ---
