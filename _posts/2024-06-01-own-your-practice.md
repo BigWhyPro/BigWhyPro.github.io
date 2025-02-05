@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simplfy, Then Automate EVERYTHING Driving Your Day"
+title:  "Refactor, Simplfy, Then Automate EVERYTHING Driving Your Day"
 date:   2024-06-01 4:30:00
 categories: template
 ---
