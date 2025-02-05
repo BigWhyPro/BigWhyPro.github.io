@@ -5,9 +5,9 @@ permalink: /Health/Exercise/
 ---
 
 
-## 3rd Priority -- Exercise, Breath Work, Oxygen and Physical Health
+## 3rd Priority -- Exercise, BreathWork, Oxygen
 
-50% of our energy/focus goest to first priority, 25% energy/focus goes to second priority, 12.5% to this third exercise priority, 6.25% to fourth priority, 3.125% to fifth priority and 1.5625% to sixth priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on second priority, 14 hrs on this third priority, 7 hrs on fourth priority, 3.5 hrs on the fifth priority [in addition to the 56 hrs we spend sleeping] and 1.75 hrs/week on sixth priority. 14 hrs/week on exercise is about right; maybe we'd like to spend more time, but where are we going to rob the time from? 
+50% of our energy/focus goes to first priority, 25% energy/focus goes to second priority, 12.5% to this third exercise priority, 6.25% to fourth priority, 3.125% to fifth priority and 1.5625% to sixth priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on second priority, 14 hrs on this third priority, 7 hrs on fourth priority, 3.5 hrs on the fifth priority [in addition to the 56 hrs we spend sleeping] and 1.75 hrs/week on sixth priority. 14 hrs/week on exercise is about right; maybe we'd like to spend more time, but where are we going to rob the time from? 
 
 We spend 840 minutes/week on this priority ... that's 2 hrs/day ... it's not just exercising, but it's also about planning our exercise regimens and worksessions.
 

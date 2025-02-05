@@ -7,7 +7,7 @@ permalink: /Health/Sleep/
 
 
 
-## 5th Priority -- Brain Health, Stress Mgmt and Sleep
+## 5th Priority -- Rest, Recovery, Stress Mgmt
 
 50% of our energy/focus goest to first priority, 25% energy/focus goes to second priority, 12.5% to third priority, 6.25% to fourth priority, 3.125% to this fifth priority and 1.5625% to the sixth priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on second priority, 14 hrs on third priority, 7 hrs on fourth priority, 1.75 hrs/week on the sixth priority ... 3.5 hrs on this sleep or brain health priority [in addition to the 56 hrs we spend sleeping]. 
 

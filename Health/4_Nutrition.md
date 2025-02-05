@@ -7,7 +7,7 @@ permalink: /Health/Nutrition/
 
 
 
-## 4th Priority -- Nutrition, Hydration, Internal Organ Health
+## 4th Priority -- Hydration, Nutrition, Immune Health
 
 50% of our energy/focus goest to first priority, 25% energy/focus goes to second priority, 12.5% to third priority, 6.25% to this fourth nutrition priority, 3.125% to the fifth priority and 1.5625% to the sixth priority ... if we have 112 hrs/week to spend on health, we spend 56 hrs on first priority, 28 hrs on second priority, 14 hrs on third priority, 7 hrs on this fourth priority, 3.5 hrs on fifth priority [in addition to the 56 hrs we spend sleeping] and 1.75 hrs/week on ... 7 hrs on this nutrition is PLENTY. 
 
