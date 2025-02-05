@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "God Doesn't Ever Sit"
+title:  "God LIVES, He Never Sits; Resist Sedentary Fossilization"
 date:   2024-11-01 4:30:00
 categories: template
 ---
