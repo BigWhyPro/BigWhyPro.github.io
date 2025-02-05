@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Renounce Materialism; Time Is The ONLY Asset That We Really Have"
+title:  "Renounce Materialism; Time's The ONLY Asset That We Can Own"
 date:   2024-04-01 4:30:00
 categories: template
 ---
