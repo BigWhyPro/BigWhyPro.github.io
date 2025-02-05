@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Always Be Flanking"
+title:  "Always Be Flanking: USE Competition, Aggression Is For Sharpening"
 date:   2024-07-01 4:30:00
 categories: template
 ---
 
+
+The knife does not want to go the grindstone to be sharpened, but there's nothing other than the sharpening process that can remove the dullness that stands in the way of the knife being useful and fit for its purpose.
+
+Flanking is a strategy that has been proven in wars and battles ... we are to always being flanking ... and always thinking about different ways that we might be flanked, ie not just from the sides, but from above or below or from different dimensions or from playing with time/tempo.
+
+Aggression and counter-aggression is about continual sharpening ... about trying to get a better edge.
 
 # Cheat! Steal lifehacks that work! 
 
