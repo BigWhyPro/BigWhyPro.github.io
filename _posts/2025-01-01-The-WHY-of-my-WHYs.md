@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Full Ishikawa of WHYS Driving My WHY"
+title:  "The Full Ishikawa Of WHYS Supporting And Driving My WHY"
 date:   2025-01-01 4:30:00
 categories: template
 ---
