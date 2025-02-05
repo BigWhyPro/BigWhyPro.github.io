@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Rest On The Sabbath [To Consider Your Fraility]"
+title:  "Rest On The Sabbath [To Develop Your Future Creativity]"
 date:   2024-08-01 4:30:00
 categories: template
 ---
 
 
-*If your Creator rests only the Sabbath, then why aren't you creating every day? How did you become so sedentary, so FRAIL?*
+*If your Creator rests only the Sabbath, then why aren't you creating every day of the week? Do you have to become so sedentary, so FRAIL, so focused on vegging out on the Laz-E-Boy at the THE END OF THE DAY?*
+
+What about the train-eat-sleep-REPEAT cycle don't you understand? Where's the part in the cycle that tells you to feel sorry for yourself or to focus *like a victim* on being overwhelmed with worry about whatever is attacking you? *Have you not been commanded to ... see Joshua 1:9*
 
 Part of what we do during our periods of ***PHYSICAL*** rest throughout the day is think intently, deeply about how we can be less frail and more productive when we are not resting.
 
-# Make this Fraility Index Your Own
+# What is rest for, if not for recovery and preparation for building
 
-Understand the principle, then build your own ... you are welcome to clone this Frality Index [FI], but your Fraility Index has to be your own.
+Understand the principle behind REST ... train-eat-sleep-repeat means that sleep is not about the END; rather it is for being better able to complete the next cycle ... understand this principle, then build your own cycle ... you are welcome to clone this Frality Index [FI], but your Fraility Index has to be your own train-eat-sleep-repeat process of resting ***with a purpose***.
 
 What I currently think of as being frail, or something that I wish to avoid, will not match your ideas of fraility ... and over time, my own ideas of what fraility means will change.
 
