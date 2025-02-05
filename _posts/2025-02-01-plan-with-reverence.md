@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plan With Reverence"
+title:  "Plan With The Most Serious and Reverent Intent Possible"
 date:   2025-02-01 4:30:00
 categories: template
 ---
