@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jesus and Jiu-Jitsu"
-date:   2025-05-01 4:30:00
+title:  "Jesus, Jiu-Jitsu, Principles And A Few Hundred Steps"
+date:   2025-04-01 4:30:00
 categories: template
 ---
 
