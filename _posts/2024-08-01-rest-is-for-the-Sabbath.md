@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Rest On The Sabbath [To Develop Your Future Creativity]"
+title:  "REST On The Sabbath, Make Your Future Creativity More Holy"
 date:   2024-08-01 4:30:00
 categories: template
 ---
 
+
+***NEVER look back, we are not going that way.***
 
 *If your Creator rests only the Sabbath, then why aren't you creating every day of the week? Do you have to become so sedentary, so FRAIL, so focused on vegging out on the Laz-E-Boy at the THE END OF THE DAY?*
 
