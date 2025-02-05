@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "BEGIN Every Day At 4:00 AM With Holy Hour"
+title: "BEGIN Every Day At 4:00 AM With Gratitude"
 date: 2024-12-01
 categories: template
 ---
 
 
-Holy Hour is about earnest prayer of GRATITUDE ... it's not about praying about your worries, your needs, your wants or the worries, needs, wants of others ... Holy Hour is strictly about an hour of prayerful GRATITUDE.
+Holy Hour is about earnest, humble prayer of profound GRATITUDE ... it's a celebration of the possibilities and boundy before us ... it's not about praying about your worries, your needs, your wants or the worries, needs, wants of others ... Holy Hour is strictly about an hour of prayerful GRATITUDE and celebration.
 # Gratitude HAS TO define your day. EVERY day.
 
 ESPECIALLY on those days when you imagine that you're having a hard time thinking of something to be grateful for.
