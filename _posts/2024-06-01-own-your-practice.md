@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "BigWhy.AI ... Avoid Self-Deception; OWN Your OWN Data, Models, Indices and EVERYTHING Driving Your Practice"
+title:  "Simplfy, Then Automate EVERYTHING Driving Your Day"
 date:   2024-06-01 4:30:00
 categories: template
 ---
 
-Of course, you should use automation ... BigWHY is fundamentally an AI tool ... and, AI has not changed anything, you ***must ruthlessly steal good ideas that work*** ... but you **must OWN your practice.** 
+FIRST, we simplify ... then we simplify more ... then we simplify again and again and again ... as we RENOUNCE everything that makes us more dependent, stupid or needy.
+
+Of course, we should also use automation ... BigWHY.AI is fundamentally an AI tool ... for high-agency agentic workflows ... and, no, we don't worship AI -- AI has not really changed much of anything ... we are grateful for examples around us ... we ***ruthlessly steal good ideas that work*** ... SIMPLIFICATION, followed by automation is all about  **OWNING** your daily practice.
 
 Improving YOUR discipline is about the meta-programming skill of how you go about internalizing through repitition and improving everything in the execution of everything in the discipline of your practice, including anything you do every day to tinker with, critique, self-coach and refactor the automation you OWN and use to support your time management discipline.
 
