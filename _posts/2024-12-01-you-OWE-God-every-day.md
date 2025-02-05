@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BEGIN Every Day At 4:00 AM With Gratitude"
+title: "BEGIN Every Day At 4:00 AM With Humility, In Gratitude"
 date: 2024-12-01
 categories: template
 ---
