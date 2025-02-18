@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 10)
-permalink: /BigWhy/10/
+title: A)
+permalink: /BigWhy/A/
 ---
 
 
