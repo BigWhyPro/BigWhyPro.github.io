@@ -12,7 +12,7 @@ Building an Ishikawa (fishbone) cause-and-effect diagram to visually map out the
 
 ## Methods for Creating an Ishikawa Diagram for Your BIG WHY
 
-### 6M Framework (Adapted for Personal Success)  
+### 6M Framework (Adapted to 10M for MZB)  
 
 Origin: Dr. Kaoru Ishikawa’s traditional 6M categories (Manpower, Methods, Machines, Materials, Measurement, Mother Nature) are widely used in quality control but can be adapted for personal or professional goals.  
 
@@ -116,16 +116,16 @@ Habitica: Gamifies your little WHYS, turning them into quests to maintain motiva
 
 Pre-built Ishikawa templates (available online) allow you to input your BIG WHY and little WHYS, with formulas to prioritize and track progress.
 
-## Putting It Together: MY Practical Example
+## Putting It Together: The MZB Example
 
-Imagine your BIG WHY is "LIVING The Creator's Will For My Life" Using the 10M adaptation:  
+Imagine ... for the sake of illustrating this example that your BIG WHY is "LIVING The Creator's Will For My Life" using MZB's 10M adaptation:  
 
 
 1) MINDSET ... 24% of my waking energy/focus/time or 27 hours/week, 12 on Sunday and 2 1/2 hours of every other day is allocated to keeping the Sabbath holy, keeping holy hour holy upon waking, attending Mass, bible study, journaling and [spiritual health](https://bigwhypro.github.io/BigWhy/Spiritual/). Sharpening the axe or MINDSET is easily my favorite part of life! I sort of have to try not to spend all of my time on my highest priority because if I neglect the other areas, they have ways of becoming urgent and demanding ... but a spiritual MINDSET is everything.
 
-2) MEETING ... 13% of my energy/focus/time or 14 hours/week, 2 hrs/day, goes to **meeting new friends** and finding new colleagues, new interactions/outreach through philanthropic ventures and open source, community devotions, sustaining old friendships, messaging/commenting, and everything of a exploratory social nature that drives my [emotional health](https://bigwhypro.github.io/BigWhy/2/)
+2) MEETING ... 13% of my energy/focus/time or 14 hours/week, 2 hrs/day, goes to **MEETING new friends** and finding new colleagues, primarily NEW interactions/outreach through philanthropic ventures and open source, community devotions and Bible Study, messaging and taking the time to comment on posts/tweets [new acquaintances as well assustaining old friendships], but it is mostly everything that is of a exploratory social nature that drives my [emotional health](https://bigwhypro.github.io/BigWhy/2/)
 
-3) MACHINES ... 11% of my energy/focus/time or 12 hours/week or 2 hours/weekday goes to working on things like AI, neural networks, deep learning development, and [cognitive health](https://bigwhypro.github.io/BigWhy/3/). To a large degree, BigWhy is entirely about cognitive health ... but learning these new things is also the supporting basis of meeting new friends OR engaging in meaningful spiritual dialogue.
+3) MACHINES ... 11% of my energy/focus/time or 12 hours/week or 2 hours/weekday goes to working on tools to automate ... such as AI, neural networks, deep learning development, and various activities that use my capabilities and sustain my [cognitive health](https://bigwhypro.github.io/BigWhy/3/). To a large degree, BigWhy is entirely about SUSTAINING cognitive health ... but learning these new things is also building tools that advance the cause of supporting basis of meeting new friends OR engaging in meaningful spiritual dialogue.
 
 4) MOBILITY ... 8% of my energy/focus/time or 9 hours/week or 90 minutes/weekday goes to staying active, gardening, landscaping, different forms of exercise but ensuring that I get at least 30 minutes of Zone 2 exercise to sustain better levels of VO2max. Diet for me is mostly about what I remove, but I need to work at getting most of emotional support from things like martial arts solo drills, weight lifting, mobility drills to maintain my [physical health](https://bigwhypro.github.io/BigWhy/4/), so that I can have a decent level of cognitive, emotional, spiritual health.
 
