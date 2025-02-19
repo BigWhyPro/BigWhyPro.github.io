@@ -12,51 +12,53 @@ Building an Ishikawa (fishbone) cause-and-effect diagram to visually map out the
 
 ## Methods for Creating an Ishikawa Diagram for Your BIG WHY
 
-### 6M Framework (Adapted to 10M for MZB)  
+### 6M Framework ... Adapted to 10M ... for MZB's mission, personal goals. 
 
-Origin: Dr. Kaoru Ishikawa’s traditional 6M categories (Manpower, Methods, Machines, Materials, Measurement, Mother Nature) are widely used in quality control but can be adapted for personal or professional goals.  
+Origin: Dr. Kaoru Ishikawa’s traditional 6M categories (Manpower, Methods, Machines, Materials, Measurement, Mother Nature) are widely used in quality control but I have adapted and granulated these to 10M ... to drive my priorities ... or the little WHY priorities which support my BIG WHY.
 
-How to Apply: Reframe the 6Ms to fit your agenda—e.g., Mindset (Manpower), Methods (Strategies), Mechanisms (Tools/Resources), Milestones (Materials), Metrics (Measurement), and Momentum (Mother Nature, or environmental factors). Identify your BIG WHY (e.g., "Launch a successful coaching business") as the head of the fish, then brainstorm 10 little WHYS under these categories (e.g., "Develop a growth mindset," "Create a marketing plan," "Use a CRM tool").  
+My 10M are MINDSET, MEETING, MACHINES, MOBILITY, MELONCAVE, MATRICULATION, MINDFULNESS, MOMENTUM, MONEY, MAINTENANCE.  
 
-Visual: Draw a spine with six ribs, each labeled with an adapted "M," and branch off your 10 priority facets as sub-causes.
+How to Apply: Reframe the 10Ms to fit your agenda My priorities ... or little WHYS supporting my BIG WHY ... are MINDSET, MEETING, MACHINES, MOBILITY, MELONCAVE, MATRICULATION, MINDFULNESS, MOMENTUM, MONEY, MAINTENANCE. Identify your BIG WHY (e.g., "LIVING The Creator's Will For My Life") as the head of the fish, then articulate 10 priorities or little WHYS under these categories.  
+
+Visual: Sketch a spine with 10 ribs in your Journal or on a sketch pad, each labeled with an adapted "M," and branch each off into 10 sub-priority facets as sub-causes ... it might work best to have 11 sketches; the main one and 10 little why sub-fishbones for your priority ... the sketch will get plenty messy, and you'll need to do it several times, but the point is to manually think through the process, not to produce a nice sketch ... the deliverable output that you want is in the form of clearly defined, concretely articulated SMART objectives for each of the 10M
 
 ### 5 Whys + Fishbone Hybrid  
 
 Origin: Rooted in Toyota’s problem-solving methodology, the 5 Whys technique digs deeper into causes and has been popularized by success coaches like Tony Robbins for uncovering core motivations.  
 
-How to Apply: Start with your BIG WHY as the effect (e.g., "Become a thought leader"). Ask "Why?" five times to drill down to root motivations (e.g., "To inspire others" → "To share expertise" → "To build credibility"). Then, map these insights onto a fishbone, assigning your 10 little WHYS (e.g., "Write a book," "Speak at events") to categories like Skills, Network, Content, and Visibility.  
+How to Apply: Start with your BIG WHY as the effect (e.g., "LIVING The Creator's Will For My Life"). Ask "Why?" five or ten times to drill down to root motivations (e.g., "To inspire others" → "To share expertise" → "To build credibility"). Then, map these insights back onto your fishbones, assigning your 10 little WHYS (e.g., MINDSET, MEETING, MACHINES, MOBILITY, MELONCAVE, MATRICULATION, MINDFULNESS, MOMENTUM, MONEY, MAINTENANCE) back into actionable tasks, todo lists, daily chores, and perhaps categories like Skills, Network, Content, and Visibility.  
 
-Visual: The head is your BIG WHY, with ribs representing categories derived from your 5 Whys analysis, and sub-branches listing actionable facets.
+Visual: The head is your BIG WHY, with ribs representing categories derived from your 5 Whys analysis, and sub-branches listing actionable plans or agendas ... the deliverable output that you want is in the form of clearly defined, concretely articulated ACTION PLAN ... that helps you to make measurable progress everyday toward a bigger SMART objectives for each of the 10M
 
 ### SMART Goal Categorization  
 
-Origin: Success coaches like Brian Tracy and Zig Ziglar emphasize SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) to ensure clarity and focus.  
+Origin: All kinds of different success coaches like Brian Tracy and Zig Ziglar emphasize SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) again and again ... the redundancy might get old, but it's always about ensuring clarity and hammering on focus and discipline.  
 
-How to Apply: Define your BIG WHY as a SMART goal (e.g., "Increase revenue by 50% in 12 months"). Identify 10 little WHYS as sub-goals (e.g., "Launch a new product," "Upskill in sales") and group them into categories like Revenue Streams, Skills, Systems, and Relationships. Each little WHY should align with SMART criteria.  
+How to Apply: Define your BIG WHY as a SMART goal (e.g., "During my personal Holy Hour ritual, observed every morning at 4 AM, I will explicitly state what I am GRATEFUL for, because I know that for me, gratitude is the fundamental indicator that I am living in accordance with my Creator's Will"). It is also important to identify 10 supporting SMART OBJECTIVES for each of the 10 little WHYS ... these 10 Smart Objectives will also have SMART sub-goals (e.g., "Launch a new podcast," "Upskill in open source community building") and, if it helps to work on related things together, group them into categories like Revenue Streams, Skills, Systems, and Relationships. Each sub-goal needs to align with the SMART criteria for each 10M Priorities.  
 
-Visual: The fishbone’s head is the SMART BIG WHY, with ribs as categories and sub-branches as SMART-aligned little WHYS.
+Visual: The fishbone’s head is the SMART BIG WHY, with ribs as categories and sub-branches as SMART-aligned Priorites supporting the Big Why, ie the "little" WHYS.
 
 ### Mind Mapping to Fishbone Transition  
 
 Origin: Tony Buzan’s mind mapping technique, embraced by coaches like Michael Hyatt, starts with free-form brainstorming before organizing ideas hierarchically.  
 
-How to Apply: Brainstorm freely around your BIG WHY (e.g., "Live a balanced life"), jotting down all related ideas. Narrow these to 10 priority facets (e.g., "Exercise daily," "Meditate," "Set boundaries"), then organize them into a fishbone with categories like Health, Mindset, Time, and Support.  
+How to Apply: Brainstorm freely and wildly around your BIG WHY (e.g., "LIVING The Creator's Will For My Life"), jotting down all related ideas ... perhaps during the part of the day when you do Gratitude Journaling. Over time you will notices recurrent narratives that are emerging as you grapple with the difficulties of achieving your SMART goals and priorities ... narrow these to 10 priority facets (e.g., "Exercise daily," "Meditate," "Set boundaries"), then organize them into a re-organized fishbone with categories that emerge like Health, Mindset, Time, and Support.  
 
-Visual: Convert the mind map’s central idea (BIG WHY) into the fish head, with main branches as ribs and sub-ideas as little WHYS.
+Visual: Convert the mind map’s central idea (BIG WHY) into a re-imagined fishbone, with different main branches as ribs and sub-ideas as little WHYS.
 
 ### Pareto Principle (80/20 Rule)  
 
-Origin: Vilfredo Pareto’s principle, popularized by coaches like Tim Ferriss, suggests 20% of efforts yield 80% of results.  
+Origin: Vilfredo Pareto’s principle, popularized by coaches like Tim Ferriss, suggests 20% of efforts yield 80% of results ... that's an understatement ... it's actually probably more like 5% yield 95% of the results in some cases ... it's generally more important to REMOVE impediments rather than to ADD bandaids, paint, or perfume to make the problem less noticeable. 
 
-How to Apply: Identify your BIG WHY (e.g., "Build a global brand"). List all possible contributing tasks, then prioritize the 10 little WHYS that will drive the most impact (e.g., "Create flagship content," "Partner with influencers"). Group them into categories like Product, Outreach, and Operations.  
+How to Apply: Identify your BIG WHY (e.g., "LIVING The Creator's Will For My Life"). DISCERNING the Creator's will is a lot tougher than it first appears -- it takes a lifetime! In applying the 80/20 rule, you will want to list all possible contributing tasks, then prioritize the key 10 Priorities that will drive the most impact (e.g., "Renounce and end the bad habits of being myself."). Group them into categories like Product, Outreach, and Operations, if that grouping helps.  
 
-Visual: The head is your BIG WHY, with ribs representing high-impact categories and sub-branches as the top 10 facets.
+Visual: The head is your BIG WHY, with ribs representing high-impact categories and sub-branches as the top 10 Priorities ... remember, most of the time, it's going to be about the stupid shit that you stop defending and start to REMOVE.
 
 ### Wheel of Life Integration  
 
 Origin: Used by life coaches like Paul J. Meyer, the Wheel of Life assesses balance across life areas (e.g., Career, Health, Relationships).  
 
-How to Apply: Define your BIG WHY as an overarching life goal (e.g., "Achieve fulfillment"). Assess your Wheel of Life, then select 10 little WHYS across key areas (e.g., "Advance career," "Improve fitness," "Nurture family ties") and map them onto a fishbone with ribs like Personal Growth, Professional Success, and Connections.  
+How to Apply: Define your BIG WHY as an overarching life goal (e.g., "LIVING The Creator's Will For My Life"). Try to look at your life as an alien from another galaxy -- assess the well-roundedness and balance of your Wheel of Life, then select 10 Priorities across key areas (e.g., "Advance career," "Improve fitness," "Nurture family ties") and map them onto a fishbone with ribs like Personal Growth, Professional Success, and Connections or different categories that make sense to you.  
 
 Visual: The head is the BIG WHY, with ribs as life areas and sub-branches as prioritized facets.
 
@@ -64,7 +66,7 @@ Visual: The head is the BIG WHY, with ribs as life areas and sub-branches as pri
 
 Origin: Coaches like Anik Singal advocate working backward from the end goal to identify steps.  
 
-How to Apply: Start with your BIG WHY (e.g., "Retire early"). Imagine the end state, then reverse-engineer 10 little WHYS (e.g., "Save 20% of income," "Invest in real estate") grouped into categories like Finance, Skills, and Lifestyle.  
+How to Apply: Start with your BIG WHY (e.g., "LIVING The Creator's Will For My Life"). Imagine the PERFECT end state, then reverse-engineer what 10 Priorities would have looked like for the person that achieved that outcome (e.g., "Life characterized GRATITUDE and Adoration, rather than worries," maybe there are heroes or saints that you find worthy of imitation) ... again theses will be grouped into categories that emerge from the exercise, like maybe Competence, Teaching Others, and Healthy Lifestyle.  
 
 Visual: The fish head is the BIG WHY, with ribs as reverse-engineered categories and sub-branches as actionable steps.
 
