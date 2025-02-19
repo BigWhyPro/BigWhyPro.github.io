@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Full Ishikawa Of WHYS Supporting And Driving My WHY"
+title:  "Dr. Kaoru Ishikawa’s Traditional Visual Framework"
 date:   2025-01-01 4:30:00
 categories: template
 ---
