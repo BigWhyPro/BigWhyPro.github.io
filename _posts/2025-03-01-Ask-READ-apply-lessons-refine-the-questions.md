@@ -308,3 +308,71 @@ Gemini, is a TOOL for automating what we could do ourselves, but it will nmore e
 16. Causal effects and counterfactual conditionals: contrasting Rubin, Lewis and Pearl | Economics & Philosophy | Cambridge Core, accessed February 20, 2025, https://www.cambridge.org/core/journals/economics-and-philosophy/article/causal-effects-and-counterfactual-conditionals-contrasting-rubin-lewis-and-pearl/755592D88BA42EBB7288C68844F1599B
 17. Counterfactual thinking - Wikipedia, accessed February 20, 2025, https://en.wikipedia.org/wiki/Counterfactual_thinking
 18. Causal reasoning - Wikipedia, accessed February 20, 2025, https://en.wikipedia.org/wiki/Causal_reasoning
+
+
+In terms of more recent work as suggested by ["Integrated Inferences", by Macartan Humphreys and Alan M Jacobs published November, 2023](https://integrated-inferences.github.io/book/) and ["Foundations of Agnostic Statistics" which might one of II's key recent [2019] references](https://integrated-inferences.github.io/book/20-references.html#ref-aronow2019foundations), we can have Gemini break down Aronow and Miller's "Foundations of Agnostic Statistics" (2019) think about the broader context or impact of this *model-agnostic* approach.
+
+### Summary of "Foundations of Agnostic Statistics"**
+
+The core argument of Aronow and Miller's book is a shift away from traditional, model-based statistical inference towards a *model-agnostic* approach.  Here's a breakdown of the key ideas:
+
+*   **Rejection of "True Models":**  The book fundamentally challenges the common assumption in classical statistics that there exists a "true" underlying data-generating process (DGP) that we are trying to discover or approximate with our statistical models.  They argue that this assumption is often unrealistic and leads to problems when models are misspecified (which, they argue, is almost always the case).  The real world is messy, and assuming a perfect, knowable model is a dangerous simplification.
+
+*   **Focus on Estimands:** Instead of focusing on estimating parameters of a hypothetical "true" model, Aronow and Miller emphasize the importance of clearly defining the *estimand* – the specific quantity we *want* to learn about from the data. This estimand should be meaningful regardless of whether any particular model is correct.  Examples include the average treatment effect in a causal inference setting, or the prediction error of a machine learning model.
+
+*   **Finite-Population Framework:**  The book primarily operates within a finite-population framework.  This means they consider the data at hand as the entire population of interest, rather than a sample drawn from a larger, hypothetical superpopulation. This helps avoid making assumptions about unobserved data. This is closely related to the concept of "design-based inference" in survey sampling.
+
+*   **Design-Based vs. Model-Based Inference:**  They draw a strong distinction between *design-based* inference (which relies on the randomness introduced by the experimental design or sampling mechanism) and *model-based* inference (which relies on assumptions about the data-generating process).  They advocate for a design-based perspective whenever possible, as it is less reliant on unverifiable assumptions.
+
+*   **Target Parameters and Estimands:** They distinguish *target parameters* from other kinds of estimands. The former is a feature of an assumed statistical model, and the second is a clearly defined question of interest that can be understood regardless of any statistical model.
+
+*   **Asymptotics without a True DGP:** The book develops asymptotic theory (studying the behavior of estimators as the sample size grows) *without* assuming a true DGP.  This is a crucial departure from standard statistical theory. They achieve this by focusing on the properties of estimators under the randomness of the sampling mechanism, not under a hypothetical data-generating process.
+
+### **Generalizability:** 
+
+Aronow and Miller argue their methods are more generally applicable and do not assume any more than they explicitly state.
+
+**Bookselling Appearances, Blog Posts, Social Media Reactions**
+
+Unfortunately, pinpointing *every* appearance, blog post, and social media reaction related to a specific academic book like this is incredibly difficult, and beyond my capabilities as a language model. I don't have a mechanism to continuously trawl the internet and archive every mention.  Here's what I *can* say, and how you could find more information:
+
+*   **Academic Citations:** The most reliable way to gauge the book's impact is through academic citations.  Using Google Scholar, Web of Science, or Scopus, you can search for "Foundations of Agnostic Statistics" and see which papers have cited it. This will give you a sense of how it's being used in the research community.  The book is relatively recent (2019), so the citation count is still growing.
+
+*   **Author Websites and Social Media:** Peter Aronow and Ben Miller likely have personal or professional websites, and possibly Twitter/X accounts.  Checking those might reveal mentions of talks, workshops, or blog posts they've written about their book.
+
+*   **Specialized Blogs and Forums:**  Blogs and forums dedicated to statistics, econometrics, and machine learning are potential sources of discussion.  Look for blogs by prominent statisticians or researchers in causal inference.  Reddit subreddits like r/statistics, r/MachineLearning, and r/AskStatistics *might* have relevant discussions, but finding them can be like searching for a needle in a haystack.
+
+*   **Cambridge University Press:** The publisher's website might have promotional materials, author interviews, or links to reviews.
+
+*   **Podcast and Vlog Searches:**  Search podcast platforms (like Apple Podcasts, Spotify) and YouTube for the authors' names or the book title.  Academic authors sometimes appear on podcasts related to data science, statistics, or economics. The book does not appear to be a popular topic.
+
+* **Amazon/Goodreads reviews:** These are generally not good places to find in-depth discussions of the book, but in the absense of podcast, blog posts, and other responses, a consumer review may point to some valuable information.
+
+### Philosophical Implications
+
+1.  **Epistemological Shift (Knowledge Acquisition):** The book's core argument represents a shift in the epistemology of statistical inference.
+    *   **Traditional View:** Assumes we can, at least in principle, discover the "true" underlying laws governing the data. This is a form of *scientific realism* applied to statistical modeling.
+    *   **Agnostic View:**  Acknowledges the inherent limitations of our models and focuses on answering specific, well-defined questions about the data we *have*, rather than striving for a complete understanding of an unobservable "true" process. This is closer to an *instrumentalist* or *pragmatist* view – the value of a statistical method lies in its ability to provide useful answers to practical questions, not in its supposed correspondence to an underlying reality.
+
+2.  **Model Misspecification as the Norm:**  The book embraces the idea that *all models are wrong*, but some are useful (echoing George Box). This is not a new idea, but Aronow and Miller take it as a *foundational* principle, rather than a caveat. This has implications for how we interpret statistical results.  We should be more cautious about over-interpreting model parameters and focus instead on the estimand of interest.
+
+3.  **Role of Assumptions:**  The agnostic approach emphasizes making assumptions *explicit* and *minimal*.  This contrasts with many statistical practices where assumptions are often implicit or unexamined.  This leads to a more robust and transparent form of inference.
+
+4.  **Relationship to Causal Inference:** The focus on estimands and design-based inference aligns closely with the potential outcomes framework in causal inference (associated with Rubin, Holland, and others).  Causal inference is inherently about asking well-defined questions about counterfactuals, and the agnostic approach provides a framework for doing this rigorously.
+
+5.  **Implications for Machine Learning:** The book's ideas are highly relevant to machine learning, where models are often complex and highly parameterized.
+    *   **Prediction vs. Explanation:** The agnostic approach aligns well with the focus on prediction in many machine learning applications.  If the goal is to build a model that predicts accurately, the "truth" of the model's internal workings may be less important.
+    *   **Overfitting:** The finite-population perspective and the focus on the specific data at hand can help guard against overfitting, a common problem in machine learning.
+    *   **Interpretability:** While the agnostic approach doesn't *guarantee* interpretability, it encourages a focus on understandable estimands, which can be a step towards more interpretable models.
+
+6.  **Implications for AI (as of late 2021, the knowledge cut-off):**
+    *   **Robustness and Generalization:**  The agnostic approach's emphasis on minimal assumptions and finite-population inference is directly relevant to the challenges of building robust and generalizable AI systems.  AI models trained on specific datasets often fail when deployed in new environments.  An agnostic perspective encourages a more cautious approach to generalization.
+    *   **Causal Reasoning:**  The connection to causal inference is crucial.  Many researchers believe that incorporating causal reasoning into AI is essential for building truly intelligent systems.  The agnostic framework provides a statistical foundation for causal inference.
+    *   **Beyond Correlation:**  Current AI, particularly deep learning, is largely based on finding correlations in data.  The agnostic approach, with its emphasis on well-defined estimands and design-based inference, pushes us to think beyond mere correlation and towards a more causal understanding of the world.
+    *    **Limits of Current Statistical AI:** The book may implicitly challenge the entire project of Artificial General Intelligence [AGI] by highlighting that the fundamental assumptions behind much of statistical AI are often deeply flawed.
+
+In essence, "Foundations of Agnostic Statistics" advocates for a more humble, pragmatic, and ultimately more rigorous approach to statistical inference. 
+
+It encourages us to be more clear and concrete about what we want to know ... to explicitly state our assumptions ... to minimize our reliance on untestable, maybe even unknown implicit assumptions, and to focus on the quality and provisioning of the data we actually have. 
+
+Focusing upon what we actually KNOW ... has profound implications for how we interpret statistical results, build AI systems, and even how we think about the nature of scientific knowledge itself.
