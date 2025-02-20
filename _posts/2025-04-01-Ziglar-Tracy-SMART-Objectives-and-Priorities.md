@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ziglar-Tracy SMART Goal Categorization Prioritizing My WHYs"
-date:   2025-03-01 4:30:00
+date:   2025-04-01 4:30:00
 categories: template
 ---
 
