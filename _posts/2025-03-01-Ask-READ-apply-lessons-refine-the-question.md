@@ -8,133 +8,290 @@ categories: template
 
 ## Become AI Savvy -- Ask Many, Many More Questions
 
-**STOP thinking that you need to invent** ***everything.*** Somwhere somebody else has come up with a better way or at least has some ideas that you could use -- HUMBLY ask the best in the world for what they are doing. In order to become AI savvy -- ask many, many more questions and improve the AI-ification of your question asking technique.
+We have been culturally trained that we need to do our own work and not *steal the answers from somebody else* ... that will not work in the future.
 
-We can START by [asking Copilot a simple question](https://github.com/copilot/c/2d964445-ed50-4967-90f6-97b4458cde33) to look into what the world is doing on something like *the latest and greatest work [on GitHub] on* ***causal inference*** ... after we have delved into that answer, we will have a better idea of what questions to ask AND we will ask the question of a smaller, better subset of who the BEST are.
+If you have not already done so, **STOP thinking that you need to invent or come up with** ***everything.*** **yourself**. 
 
-#### Latest Issues Related to Causal Inference
+*Ditch your ego.* Somwhere somebody else has come up with a better way or at least has some ideas that you could use -- HUMBLY ask the best in the world for what they are doing. In order to become AI savvy -- ask many, many more questions and improve the AI-ification of your question asking technique.
 
-1. **[todo](https://github.com/lucidrains/native-sparse-attention-pytorch/issues/1)** by [lucidrains](https://github.com/lucidrains)
-   - **Created:** 21 hours ago
-   - **Updated:** 21 minutes ago
-   - **Body:** 
-     ```
-     - [ ] make sure compress and fine block sizes can be different, deal with the importance score as explained in paper
-     - [x] handle < block size sequence lengths, make sure it doesn't break
-       - [x] handle any block size < num selected blocks
-       - [x] handle no blocks
-     - [ ] flex attention for starters
-       - [x] add for sliding windows
-       - [ ] fine attention
-       - [ ] add the mask function for compressed attention assuming at some future date, attention logits can be extracted
-     - [x] replace einx get at
-     - [x] ~allow for ablating this extra block causal diagonal in fine attention~ nevermind, it is necessary for the first block
-     - [x] make it possible to customize the MLP for compressing key / value
-     - [ ] add attention pool as a type of compression module, even if they said "MLP"
-     - [ ] figure out relative positions from query to each compressed key. perhaps use the midpoint of the set of keys
-     - [x] gqa
-     - [ ] inference pathways
-     - [x] ~figure out whether they used some soft topk or gating with the importance scores~ just use one hot straight through on compress attention probs and gate the selected keys and values
-     - [ ] triton kernels only if in experiments it comes close to full attention - feel like i have tried every hierarchical attention technique during the pandemic.
-     ```
+We can START by [asking OpenAI/Microsoft/Github Copilot a simple question on something like *the latest and greatest work [on GitHub] on* ***causal inference***](https://github.com/copilot/c/2d964445-ed50-4967-90f6-97b4458cde33) ... just to get an idea of the bigger picture on this topic, to see what the world is doing.
 
-2. **[When running DEEPSEEK with Ollama, model crashes occur](https://github.com/ollama/ollama/issues/9248)** by [mjdp168](https://github.com/mjdp168)
-   - **Created:** 2 hours ago
-   - **Updated:** 1 hour ago
-   - **Body:**
-     ```
-     ### What is the issue?
+After we have delved into the initial answer, we will have a better idea of what questions to ask AND we will ask the question of a smaller, better subset of who the BEST are ... which might ultimately lead us to [Integrated Inferences: Causal Models for Qualitative and Mixed-Method Research, by Humphreys and Jacobs](https://integrated-inferences.github.io/book/), [Causal Queries](https://github.com/integrated-inferences/CausalQueries), [A General Framework for Constraint-based Causal Learning](https://www.connectedpapers.com/main/bac3f86c1d260ca86e81feaf0b595ed852b89ef5/A-General-Framework-for-Constraint%20based-Causal-Learning/graph) ... and, somehow, back to what is one of our favorite, most trusted, treasured works [Causality: Models, Reasoning and Inference](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) by Judea Pearl.
 
-     During the execution of DEEPSEEK, the following error occurred:
-     Error: An error was encountered while running the model: read tcp 127.0.0.1:55564->127.0.0.1:54784: wsarecv: An existing connection was forcibly closed by the remote host.
-     Observing that memory usage dropped to 0, which indicates a model crash. Could you suggest possible solutions?
-     Thank.
+We can ***then*** use an assistant like Claude to generate a wider, more complete array of great questions about Judea Pearl's Theory of Inferred Causation than we could immediately or quickly generate ourselves [even if we thought we were familiar with the material].
 
-     ### Relevant log output
+The wider, more complete array of questions produce will, in turn, ***help*** us to grasp the overall *lay of the land* in the realm of inferred causation, but we still need to ponder and work through these questions for ourselves.
 
-     ```shell
-     time=2025-02-20T19:36:37.412+08:00 level=INFO source=logging.go:50 msg=\"ollama app started\"
-     ...
-     ```
+# Foundational Questions on the Nature of Causality
 
-3. **[REVIEW]: The Causal Testing Framework](https://github.com/openjournals/joss-reviews/issues/7739)** by [editorialbot](https://github.com/editorialbot)
-   - **Created:** 21 days ago
-   - **Updated:** 1 hour ago
-   - **Body:**
-     ```
-     Submitting author: @jmafoster1 (Michael Foster)
-     Repository: https://github.com/CITCOM-project/CausalTestingFramework
-     ...
-     ```
+1. How does Pearl's framework challenge Hume's assertion that we can never directly observe causation but only constant conjunction?
 
-4. **[Latest 15 Papers - February 20, 2025](https://github.com/jiangnanhugo/DailyArXiv/issues/27)** by [github-actions[bot]](https://github.com/apps/github-actions)
-   - **Created:** 2 hours ago
-   - **Updated:** 2 hours ago
-   - **Body:**
-     ```
-     **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
+2. In what ways does the distinction between seeing and doing in Pearl's framework illuminate the limitations of purely observational studies?
 
-     ## Time Series
-     | **Title** | **Date** | **Comment** |
-     | --- | --- | --- |
-     | **[Causal Temporal Regime Structure Learning](http://arxiv.org/abs/2311.01412v3)** | 2025-02-19 |  |
-     ...
-     ```
+3. How might Pearl's formal definition of causation through directed acyclic graphs (DAGs) be inadequate for capturing cyclic causal relationships in complex systems?
 
-#### Latest Repositories Related to Causal Inference
+4. **What philosophical implications arise from Pearl's treatment of counterfactuals as fundamental to causal reasoning?** (*A question that we happened to find particularly salient for some reason and thus we judged it worthy of additional probing, see below.*)
 
-1. **[coffee_causality](https://github.com/AashishPatil2001/coffee_causality)** by [AashishPatil2001](https://github.com/AashishPatil2001)
-   - **Created:** 5 days ago
-   - **Updated:** 11 minutes ago
-   - **Description:** Data-driven analysis of coffee shop sales using correlation, regression, and causal inference. A Jupyter Book project exploring foot traffic, weather patterns, and business analytics.
+5. How does Pearl's framework bridge the gap between correlation and causation, and what are the limits of this bridge?
 
-2. **[BayesianCausalInferenceShiny](https://github.com/boracelebi/BayesianCausalInferenceShiny)** by [boracelebi](https://github.com/boracelebi)
-   - **Created:** 5 hours ago
-   - **Updated:** 16 minutes ago
-   - **Description:** A Shiny app for visualization of Bayesian Causal Inference Model of Duration Judgements.
+# Methodological and Technical Questions
 
-3. **[BayesReg-CausalInference](https://github.com/michael-franke/BayesReg-CausalInference)** by [michael-franke](https://github.com/michael-franke)
-   - **Created:** 19 June 2024
-   - **Updated:** 56 minutes ago
-   - **Description:** Bayesian data analysis and causal inference using Python & PyMC.
+6. How might Pearl's do-calculus be extended to handle continuous interventions rather than just discrete ones?
 
-4. **[bayesian-analysis](https://github.com/abdullahau/bayesian-analysis)** by [abdullahau](https://github.com/abdullahau)
-   - **Created:** 25 days ago
-   - **Updated:** 1 hour ago
-   - **Description:** Bayesian data analysis and causal inference using Python & PyMC.
+7. What are the implications of the faithfulness assumption in causal discovery algorithms, and how can we verify it in practice?
 
-5. **[CausalInferenceProject](https://github.com/Dan551Mizrahi/CausalInferenceProject)** by [Dan551Mizrahi](https://github.com/Dan551Mizrahi)
-   - **Created:** 02 October 2024
-   - **Updated:** 2 hours ago
-   - **Description:** A project where I will be leaving my current studies about Causal Inference. It is a fascinating field that might revolutionate the industry.
+8. How can we reconcile Pearl's structural approach with quantum mechanics' inherent probabilistic nature?
 
-6. **[Causal-Inference](https://github.com/JoaquinMateosBarroso/Causal-Inference)** by [JoaquinMateosBarroso](https://github.com/JoaquinMateosBarroso)
-   - **Created:** 14 April 2024
-   - **Updated:** 2 hours ago
-   - **Description:** A project where I will be leaving my current studies about Causal Inference. It is a fascinating field that might revolutionate the industry.
+9. What new mathematical tools might be needed to extend Pearl's framework to handle dynamic causal relationships that evolve over time?
 
-7. **[HypEx](https://github.com/sb-ai-lab/HypEx)** by [sb-ai-lab](https://github.com/sb-ai-lab)
-   - **Created:** 01 November 2023
-   - **Updated:** 5 hours ago
-   - **Description:** Fast and customizable framework for automatic and quick Causal Inference in Python.
+10. How can we modify Pearl's methods to handle situations where the causal structure itself is uncertain or probabilistic?
 
-8. **[PHAIR_EHR](https://github.com/kirilklein/PHAIR_EHR)** by [kirilklein](https://github.com/kirilklein)
-   - **Created:** 22 days ago
-   - **Updated:** 7 hours ago
-   - **Description:** A fork of the EHR corebehrt repo for causal inference.
+# Applications in Artificial Intelligence
 
-9. **[graphVCI](https://github.com/yulun-rayn/graphVCI)** by [yulun-rayn](https://github.com/yulun-rayn)
-   - **Created:** 30 September 2022
-   - **Updated:** 9 hours ago
-   - **Description:** This repository implements Graph Variational Causal Inference (graphVCI), a framework that integrates prior knowledge of relational information into variational causal inference for the prediction of perturbation effect on gene expressions at single-cell and marginal level.
+11. How might Pearl's causal framework be integrated with deep learning architectures to create more robust AI systems?
 
-10. **[variational-causal-inference](https://github.com/yulun-rayn/variational-causal-inference)** by [yulun-rayn](https://github.com/yulun-rayn)
-    - **Created:** 04 June 2022
-    - **Updated:** 9 hours ago
-    - **Description:** This repository implements Variational Causal Inference (VCI), a variational Bayesian causal inference framework for high-dimensional counterfactual and robust interventional inference.
+12. What role could causal reasoning play in developing AI systems that can generate explanations for their decisions?
 
-### Note
-- The results provided above are [of course] necessarily incomplete. There are a total of 6341 issues and 3396 repositories related to causal inference.
-- For more detailed information and to explore further, please visit the following links:
-  - [Issues related to causal inference](https://github.com/search?q=is%3Aissue+causal+inference&sort=updated&order=desc)
-  - [Repositories related to causal inference](https://github.com/search?q=causal+inference&sort=updated&order=desc)
+13. How can Pearl's concept of interventions be applied to make reinforcement learning agents more sample-efficient?
+
+14. What would a causal approach to transfer learning look like, and how might it differ from current statistical approaches?
+
+15. How might Pearl's framework inform the development of AI systems that can reason about their own actions' consequences?
+
+# Ethical and Social Implications
+
+16. How does Pearl's framework challenge or support existing approaches to algorithmic fairness?
+
+17. What ethical considerations arise when using do-calculus to reason about interventions in social systems?
+
+18. How might causal reasoning frameworks influence policy decisions about algorithmic accountability?
+
+19. What are the implications of Pearl's framework for understanding and addressing systemic bias in machine learning?
+
+20. How can causal reasoning help us better understand and address issues of social inequality?
+
+# Extensions to Complex Systems
+
+21. How might Pearl's framework be extended to handle emergent phenomena in complex systems?
+
+22. What modifications would be needed to apply causal inference to systems with multiple temporal scales?
+
+23. How can we integrate Pearl's framework with network theory to better understand causation in social networks?
+
+24. What role might causal reasoning play in understanding climate systems and predicting climate change impacts?
+
+25. How can Pearl's framework be adapted to handle situations where causes have delayed or distributed effects?
+
+# Cognitive Science and Human Reasoning
+
+26. How does Pearl's formal framework relate to human intuitive causal reasoning?
+
+27. What insights does Pearl's work offer about the development of causal reasoning in children?
+
+28. How might Pearl's framework inform our understanding of cognitive biases in causal reasoning?
+
+29. What role does counterfactual thinking play in human decision-making, and how does this relate to Pearl's formal treatment?
+
+30. How can Pearl's framework help us understand and improve human reasoning about complex causal systems?
+
+# Epistemological Implications
+
+31. How does Pearl's framework change our understanding of scientific explanation versus prediction?
+
+32. What are the implications of Pearl's work for the realism versus instrumentalism debate in philosophy of science?
+
+33. How might Pearl's approach to causation inform debates about free will and determinism?
+
+34. What does Pearl's framework suggest about the nature of scientific understanding itself?
+
+35. How does Pearl's work challenge or support different theories of truth?
+
+# Statistical Methodology and Integration
+
+36. How might Pearl's framework be extended to handle non-parametric causal relationships?
+
+37. What are the implications of causal reasoning for missing data problems?
+
+38. How can we integrate Pearl's framework with Bayesian nonparametric methods?
+
+39. What role might causal reasoning play in experimental design optimization?
+
+40. How can we develop more robust methods for testing causal assumptions?
+
+# Biological and Medical Applications
+
+41. How might Pearl's framework improve our understanding of gene regulatory networks?
+
+42. What role could causal reasoning play in personalized medicine?
+
+43. How can we apply Pearl's methods to understanding complex disease pathways?
+
+44. What insights might causal reasoning offer for drug discovery and development?
+
+45. How can we use Pearl's framework to better understand biological redundancy and robustness?
+
+# Economic and Social Sciences
+
+46. How might Pearl's framework improve our understanding of economic policy interventions?
+
+47. What role could causal reasoning play in analyzing market mechanisms?
+
+48. How can we apply Pearl's methods to understanding social contagion?
+
+49. What insights might causal reasoning offer for behavioral economics?
+
+50. How can we use Pearl's framework to better understand institutional change?
+
+# Psychology and Decision Making
+
+51. How does Pearl's framework inform our understanding of human decision-making under uncertainty?
+
+52. What role might causal reasoning play in understanding cognitive development?
+
+53. How can we apply Pearl's methods to analyzing psychological interventions?
+
+54. What insights might causal reasoning offer for understanding mental health?
+
+55. How can we use Pearl's framework to improve clinical psychology research?
+
+# Machine Learning and Data Science
+
+56. How might Pearl's framework improve machine learning model interpretability?
+
+57. What role could causal reasoning play in feature selection and engineering?
+
+58. How can we apply Pearl's methods to handling dataset shift?
+
+59. What insights might causal reasoning offer for semi-supervised learning?
+
+60. How can we use Pearl's framework to improve model robustness?
+
+# Environmental and Climate Science
+
+61. How might Pearl's framework help understand climate feedback loops?
+
+62. What role could causal reasoning play in ecological studies?
+
+63. How can we apply Pearl's methods to understanding biodiversity loss?
+
+64. What insights might causal reasoning offer for environmental policy?
+
+65. How can we use Pearl's framework to analyze sustainability interventions?
+
+# Information Theory and Communication
+
+66. How does Pearl's framework relate to Shannon's information theory?
+
+67. What role might causal reasoning play in communication system design?
+
+68. How can we apply Pearl's methods to network protocol optimization?
+
+69. What insights might causal reasoning offer for data compression?
+
+70. How can we use Pearl's framework to improve signal processing?
+
+# Educational Applications
+
+71. How might Pearl's framework improve educational assessment?
+
+72. What role could causal reasoning play in curriculum design?
+
+73. How can we apply Pearl's methods to understanding learning outcomes?
+
+74. What insights might causal reasoning offer for educational interventions?
+
+75. How can we use Pearl's framework to analyze teaching effectiveness?
+
+# Legal and Forensic Applications
+
+76. How might Pearl's framework improve legal reasoning about causation?
+
+77. What role could causal reasoning play in evidence evaluation?
+
+78. How can we apply Pearl's methods to accident investigation?
+
+79. What insights might causal reasoning offer for policy impact assessment?
+
+80. How can we use Pearl's framework to analyze systemic legal issues?
+
+# Future Directions and Extensions
+
+81. How might quantum computing advance causal discovery algorithms?
+
+82. What role could causal reasoning play in developing artificial general intelligence?
+
+83. How can we extend Pearl's framework to handle multiple conflicting objectives?
+
+84. What insights might causal reasoning offer for multi-agent systems?
+
+85. How can we develop causal reasoning systems that handle uncertainty more robustly?
+
+# Practical Implementation Challenges
+
+86. How can we make causal discovery algorithms more computationally efficient?
+
+87. What approaches might help handle high-dimensional causal networks?
+
+88. How can we develop more user-friendly tools for causal analysis?
+
+89. What methods might help validate causal models in practice?
+
+90. How can we better integrate causal reasoning with existing statistical software?
+
+# Historical Context and Integration
+
+91. How does Pearl's work relate to philosophical traditions of causation?
+
+92. What insights might Pearl's framework offer for historiography?
+
+93. How can we integrate Pearl's ideas with other theories of causation?
+
+94. What role might causal reasoning play in understanding historical processes?
+
+95. How does Pearl's framework compare to other formal systems of reasoning?
+
+# Methodological Synthesis
+
+96. How might Pearl's framework be integrated with systems thinking approaches?
+
+97. What role could causal reasoning play in mixed-methods research?
+
+98. How can we combine Pearl's methods with complexity theory?
+
+99. What insights might causal reasoning offer for research design?
+
+100. How can we use Pearl's framework to advance scientific methodology?
+
+## Drill down, keep asking questions
+
+In turn, we can pick a question, like #4 above that we find most provokative because Pearl's counterfactual revolution has provides an especially powerful different, new lens through which people can examine fundamental questions about the nature of causality, knowledge, and reality, opening up exciting new avenues for philosophical exploration.
+
+Thus, we can [ask Gemini "What philosophical implications arise from Judea Pearl's treatment of counterfactuals as fundamental to causal reasoning?"](https://g.co/gemini/share/141575c28b21)
+
+Gemini will efficiently:
+(1) Find articles and books by Judea Pearl discussing his work on causality and counterfactuals.
+(2) Find articles and books by other philosophers and researchers discussing Pearl's work on causality and counterfactuals.
+(3) Find articles and books discussing the philosophical implications of counterfactual reasoning in general.
+(4) Find articles and books discussing alternative approaches to causal reasoning and their philosophical implications.
+(5) Compare and contrast Pearl's approach to counterfactuals with other approaches to causal reasoning.
+(6) Identify specific philosophical debates or questions that Pearl's work on counterfactuals might inform or challenge.
+(7) Finally, Gemini will generate a document entitled [Judea Pearl's Counterfactual Revolution: Implications for Philosophy](https://docs.google.com/document/d/1O3zTFKZw9soMhywr5_743yRe9fhkLceTjIehlWVlNC0/edit?usp=sharing), which includes the works used by Gemini in generating this paper.
+
+1. CAUSAL INFERENCE — JUDEA PEARL — The Frontiers of Knowledge Award goes to ... - Medium, accessed February 20, 2025, https://medium.com/@tvscitechtalk/causal-inference-judea-pearl-the-frontiers-of-knowledge-award-goes-to-judea-pearl-for-laying-d008609180c4
+2. Causality - Cambridge University Press & Assessment, accessed February 20, 2025, https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B
+3. Judea Pearl on the Future of AI, LLMs, and Need for Causal Reasoning - causaLens, accessed February 20, 2025, https://causalai.causalens.com/resources/blog/judea-pearl-on-the-future-of-ai-llms-and-need-for-causal-reasoning/
+4. Criticism of Pearl's theory of causality - Cross Validated - Stack Exchange, accessed February 20, 2025, https://stats.stackexchange.com/questions/26437/criticism-of-pearls-theory-of-causality
+5. evaluating counterfactual explanations using pearl's counterfactual method - arXiv, accessed February 20, 2025, https://arxiv.org/pdf/2301.02499
+6. Mindscape 196 | Judea Pearl on Cause and Effect - YouTube, accessed February 20, 2025, https://www.youtube.com/watch?v=9VsTpsD_dP0
+7. Pearl's Causal Ladder - Smitha Milli, accessed February 20, 2025, http://smithamilli.com/blog/causal-ladder/
+8. THE FOUNDATIONS OF CAUSAL INFERENCE Judea Pearl - UCLA CS, accessed February 20, 2025, https://ftp.cs.ucla.edu/pub/stat_ser/r355-corrected-reprint.pdf
+9. CRITICAL NOTICE: CAUSALITY BY JUDEA PEARL - UCLA Cognitive Systems Laboratory (Experimental), accessed February 20, 2025, https://bayes.cs.ucla.edu/BOOK-2K/woodward-rev.pdf
+10. 5.3: Causal Reasoning - Humanities LibreTexts, accessed February 20, 2025, https://human.libretexts.org/Bookshelves/Philosophy/Fundamental_Methods_of_Logic_(Knachel)/05%3A_Inductive_Logic_I_-_Analogical_and_Causal_Arguments/5.03%3A_Causal_Reasoning
+11. Counterfactuals (Stanford Encyclopedia of Philosophy), accessed February 20, 2025, https://plato.stanford.edu/entries/counterfactuals/
+12. Causal Reasoning - Open Encyclopedia of Cognitive Science - MIT, accessed February 20, 2025, https://oecs.mit.edu/pub/ee7y4opg
+13. Comparing Rubin and Pearl's Causal Modeling Frameworks: A Commentary on Markus (2021) - PhilSci-Archive, accessed February 20, 2025, https://philsci-archive.pitt.edu/19773/1/Markus_Commentary_Revisions_Unblinded.pdf
+14. COUNTERFACTUALS AND CAUSAL REASONING - Princeton University, accessed February 20, 2025, https://www.princeton.edu/~bkment/articles/causal%20reasoning.pdf
+15. Diving deeper into causality: Pearl, Kleinberg, Hill, and untested assumptions, accessed February 20, 2025, https://yanirseroussi.com/2016/05/15/diving-deeper-into-causality-pearl-kleinberg-hill-and-untested-assumptions/
+16. Causal effects and counterfactual conditionals: contrasting Rubin, Lewis and Pearl | Economics & Philosophy | Cambridge Core, accessed February 20, 2025, https://www.cambridge.org/core/journals/economics-and-philosophy/article/causal-effects-and-counterfactual-conditionals-contrasting-rubin-lewis-and-pearl/755592D88BA42EBB7288C68844F1599B
+17. Counterfactual thinking - Wikipedia, accessed February 20, 2025, https://en.wikipedia.org/wiki/Counterfactual_thinking
+18. Causal reasoning - Wikipedia, accessed February 20, 2025, https://en.wikipedia.org/wiki/Causal_reasoning
