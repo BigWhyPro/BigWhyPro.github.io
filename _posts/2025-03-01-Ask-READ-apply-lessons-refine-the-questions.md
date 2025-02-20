@@ -16,7 +16,7 @@ If you have not already done so, **STOP thinking that you need to invent or come
 
 We can START by [asking OpenAI/Microsoft/Github Copilot a simple question on something like *the latest and greatest work [on GitHub] on* ***causal inference***](https://github.com/copilot/c/2d964445-ed50-4967-90f6-97b4458cde33) ... just to get an idea of the bigger picture on this topic, to see what the world is doing.
 
-After we have delved into the initial answer, we will have a better idea of what questions to ask AND we will ask the question of a smaller, better subset of who the BEST are ... which might ultimately lead us to [Integrated Inferences: Causal Models for Qualitative and Mixed-Method Research, by Humphreys and Jacobs](https://integrated-inferences.github.io/book/), [Causal Queries](https://github.com/integrated-inferences/CausalQueries), [A General Framework for Constraint-based Causal Learning](https://www.connectedpapers.com/main/bac3f86c1d260ca86e81feaf0b595ed852b89ef5/A-General-Framework-for-Constraint%20based-Causal-Learning/graph) ... and, somehow, back to what is one of our favorite, most trusted, treasured works [Causality: Models, Reasoning and Inference](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) by Judea Pearl.
+After we have delved into the initial answer, we will have a better idea of what questions to ask AND we will ask the question of a smaller, better subset of who the BEST are ... which might ... after spending more time with Grok3, Arxiv, ConnectedPapers, et al ... ultimately lead us to [Integrated Inferences: Causal Models for Qualitative and Mixed-Method Research, by Humphreys and Jacobs](https://integrated-inferences.github.io/book/), [Causal Queries](https://github.com/integrated-inferences/CausalQueries), [A General Framework for Constraint-based Causal Learning](https://www.connectedpapers.com/main/bac3f86c1d260ca86e81feaf0b595ed852b89ef5/A-General-Framework-for-Constraint%20based-Causal-Learning/graph) ... and, somehow, back to what has been [as *data skeptics* or *correlation skeptics*] one of our favorite, most trusted, treasured works on [Causality: Models, Reasoning and **Inference**](https://www.cambridge.org/core/books/causality/B0046844FAE10CBF274D4ACBDAEB5F5B) by Judea Pearl.
 
 We can ***then*** use an assistant like Claude to generate a wider, more complete array of great questions about Judea Pearl's Theory of Inferred Causation than we could immediately or quickly generate ourselves [even if we thought we were familiar with the material].
 
@@ -266,15 +266,22 @@ The wider, more complete array of questions produce will, in turn, ***help*** us
 
 In turn, we can pick a question, like #4 above that we find most provokative because Pearl's counterfactual revolution has provides an especially powerful different, new lens through which people can examine fundamental questions about the nature of causality, knowledge, and reality, opening up exciting new avenues for philosophical exploration.
 
-Thus, we can [ask Gemini "What philosophical implications arise from Judea Pearl's treatment of counterfactuals as fundamental to causal reasoning?"](https://g.co/gemini/share/141575c28b21)
+Thus, we can [ask Gemini "What **philosophical** implications arise from Judea Pearl's treatment of counterfactuals as fundamental to CAUSAL reasoning?"](https://g.co/gemini/share/141575c28b21) ... *we err on the side of INFERENCE, rather than just chasing statistical correlation.*
 
-Gemini will efficiently:
+Gemini, is a TOOL for automating what we could do ourselves, but it will nmore efficiently:
+
 (1) Find articles and books by Judea Pearl discussing his work on causality and counterfactuals.
+
 (2) Find articles and books by other philosophers and researchers discussing Pearl's work on causality and counterfactuals.
+
 (3) Find articles and books discussing the philosophical implications of counterfactual reasoning in general.
+
 (4) Find articles and books discussing alternative approaches to causal reasoning and their philosophical implications.
+
 (5) Compare and contrast Pearl's approach to counterfactuals with other approaches to causal reasoning.
+
 (6) Identify specific philosophical debates or questions that Pearl's work on counterfactuals might inform or challenge.
+
 (7) Finally, Gemini will generate a document entitled [Judea Pearl's Counterfactual Revolution: Implications for Philosophy](https://docs.google.com/document/d/1O3zTFKZw9soMhywr5_743yRe9fhkLceTjIehlWVlNC0/edit?usp=sharing), which includes the works used by Gemini in generating this paper.
 
 1. CAUSAL INFERENCE — JUDEA PEARL — The Frontiers of Knowledge Award goes to ... - Medium, accessed February 20, 2025, https://medium.com/@tvscitechtalk/causal-inference-judea-pearl-the-frontiers-of-knowledge-award-goes-to-judea-pearl-for-laying-d008609180c4
