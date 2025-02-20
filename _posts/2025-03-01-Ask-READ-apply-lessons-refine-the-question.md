@@ -6,7 +6,9 @@ categories: template
 ---
 
 
-**STOP thinking that you need to invent** ***everything.*** Somwhere somebody else has come up with a better way -- HUMBLY ask the best in the world for what they are doing.
+## Become AI Savvy -- Ask Many, Many More Questions
+
+**STOP thinking that you need to invent** ***everything.*** Somwhere somebody else has come up with a better way or at least has some ideas that you could use -- HUMBLY ask the best in the world for what they are doing. In order to become AI savvy -- ask many, many more questions and improve the AI-ification of your question asking technique.
 
 We can START by [asking Copilot a simple question](https://github.com/copilot/c/2d964445-ed50-4967-90f6-97b4458cde33) to look into what the world is doing on something like *the latest and greatest work [on GitHub] on* ***causal inference*** ... after we have delved into that answer, we will have a better idea of what questions to ask AND we will ask the question of a smaller, better subset of who the BEST are.
 
