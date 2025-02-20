@@ -6,6 +6,8 @@ categories: template
 ---
 
 
+*Sketch, doodle, diagram, use different approaches to understand and prioritize the factors shaping your BIG WHY ... start with the Ishikawa fishbone cause-and-effect diagram.*
+
 # The Full Ishikawa of WHYS or Interest Shaping My WHY
 
 Building an Ishikawa (fishbone) cause-and-effect diagram to visually map out the 10 top-priority facets (or "little WHYS") that support your larger agenda (the "BIG WHY") is a fantastic way to organize and prioritize the contributing factors to your overarching goal. Success coaches, such as those in personal development, business strategy, or productivity, have long emphasized structured approaches to breaking down complex goals into actionable components. Below, I’ll suggest various methods to construct this diagram based on their contributions, provide examples of where similar approaches have been applied, and highlight tools that can help you stay focused on advancing your BIG WHY.
@@ -14,13 +16,13 @@ Building an Ishikawa (fishbone) cause-and-effect diagram to visually map out the
 
 ### 6M Framework ... Adapted to 10M ... for MZB's mission, personal goals. 
 
-Origin: Dr. Kaoru Ishikawa’s traditional 6M categories (Manpower, Methods, Machines, Materials, Measurement, Mother Nature) are widely used in quality control but I have adapted and granulated these to 10M ... to drive my priorities ... or the little WHY priorities which support my BIG WHY.
+Origin: Dr. Kaoru Ishikawa’s traditional 6M categories were Manpower, Methods, Machines, Materials, Measurement, Mother Nature ... the 6M mnemonic device helped popularize the use of Ishikawa diagrams used in quality engineering ... but needing greater granularity, I have adapted and granulated these to 10M ... to drive my priorities ... the 10 Ms are names for the lesser WHYs or causal factors which drive my BIG WHY. Not all bones of the fishbone are equal; since we only have so many resources or time it's important to prioritize or *pareto out* our work on these causal factors.  
 
-My 10M are MINDSET, MEETING, MACHINES, MOBILITY, MELONCAVE, MATRICULATION, MINDFULNESS, MOMENTUM, MONEY, MAINTENANCE.  
+My 10M factors are MINDSET, MEETING, MACHINES, MOBILITY, MELONCAVE, MATRICULATION, MINDFULNESS, MOMENTUM, MONEY, MAINTENANCE.  
 
-How to Apply: Reframe the 10Ms to fit your agenda My priorities ... or little WHYS supporting my BIG WHY ... are MINDSET, MEETING, MACHINES, MOBILITY, MELONCAVE, MATRICULATION, MINDFULNESS, MOMENTUM, MONEY, MAINTENANCE. Identify your BIG WHY (e.g., "LIVING The Creator's Will For My Life") as the head of the fish, then articulate 10 priorities or little WHYS under these categories.  
+How to Apply: Completely revammp and reframe the 10Ms to suit your agenda, not my priorities -- just understand the basic principle of the activity for how the causal factors or lesser WHYS drive my BIG WHY (e.g., "LIVING The Creator's Will For My Life"). Start by identifying your BIG WHY as the head of the fish [although over time, by working on your life, you will begin to discern nature of your BigWhy with better clarity]; then identify and articulate 10 priorities or lesser WHY causal factors.   
 
-Visual: Sketch a spine with 10 ribs in your Journal or on a sketch pad, each labeled with an adapted "M," and branch each off into 10 sub-priority facets as sub-causes ... it might work best to have 11 sketches; the main one and 10 little why sub-fishbones for your priority ... the sketch will get plenty messy, and you'll need to do it several times, but the point is to manually think through the process, not to produce a nice sketch ... the deliverable output that you want is in the form of clearly defined, concretely articulated SMART objectives for each of the 10M
+Visual: Sketch, doodle, hack, diagram, redo ... but use different approaches to understand and prioritize the factors shaping your BIG WHY ... start off with the Ishikawa fishbone cause-and-effect diagram, but use other approaches. At first, sketching the fishbone is like sculpting a large rock and, as Isamo Noguchi would say, "Sculpting is a matter of having a conversation with the BIG ROCK in front of you and listening to what the rock or the Creator of that rock is trying to tell you."  The point is to deliberately, manually think through the process, the point is NOT to produce a nice picture or sculpture that looks just like something you'd buy ... the ultimate, deliverable output that you are seeking is in the form of clearly defined, concretely articulated set of SMART objectives for each causal factor shaping your BigWHY.
 
 ### 5 Whys + Fishbone Hybrid  
 
