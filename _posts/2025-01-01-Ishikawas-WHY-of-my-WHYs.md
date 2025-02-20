@@ -6,11 +6,15 @@ categories: template
 ---
 
 
-*Sketch, doodle, diagram, use different approaches to understand and prioritize the factors shaping your BIG WHY ... start with the Ishikawa fishbone cause-and-effect diagram.*
+Serious [etiological investigation](https://en.m.wikipedia.org/wiki/Etiology) starts with *sketching, doodling, diagramming, use different inferential approaches to understand and prioritize the factors shaping your BIG WHY ... start with the Ishikawa fishbone cause-and-effect diagram.*
 
 # The Full Ishikawa of WHYS or Interest Shaping My WHY
 
-Building an Ishikawa (fishbone) cause-and-effect diagram to visually map out the 10 top-priority facets (or "little WHYS") that support your larger agenda (the "BIG WHY") is a fantastic way to organize and prioritize the contributing factors to your overarching goal. Success coaches, such as those in personal development, business strategy, or productivity, have long emphasized structured approaches to breaking down complex goals into actionable components. Below, I’ll suggest various methods to construct this diagram based on their contributions, provide examples of where similar approaches have been applied, and highlight tools that can help you stay focused on advancing your BIG WHY.
+In order to organize and prioritize the contributing factors to your overarching goal or life's purpose, a great way to start is by building an Ishikawa (fishbone) cause-and-effect diagram to visually map out the 10 top-priority facets (or "lesser WHYS") that support your larger agenda (the "BIG WHY"). 
+
+Ultimately, in all endeavors, it is absolutely necessary to KNOW YOUR WHY ... *or else, you'll be wasting your time and resources building or acquiring a pile of assets that are junk, because they have no purpose.* **You have to KNOW YOUR WHY!**
+
+Success coaches, such as those in personal development, business strategy, or productivity, have long emphasized structured approaches to breaking down complex goals into actionable components. Below, I’ll suggest various methods to construct this diagram based on their contributions, provide examples of where similar approaches have been applied, and highlight tools that can help you stay focused on advancing your BIG WHY.
 
 ## Methods for Creating an Ishikawa Diagram for Your BIG WHY
 
