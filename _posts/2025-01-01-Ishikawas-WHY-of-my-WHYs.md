@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dr. Kaoru Ishikawa’s Traditional Visual Framework"
+title:  "Dr. Kaoru Ishikawa’s Traditional Visual Framework ...  The History of PRACTICAL Applied Causal Inference"
 date:   2025-01-01 4:30:00
 categories: template
 ---
@@ -10,7 +10,7 @@ Serious [etiological investigation](https://en.m.wikipedia.org/wiki/Etiology) st
 
 By definition, causal EFFECTS are not measurable quantities. They are not differences between two observable outcomes in the world, but, at best, differences between one observable outcome and a second counterfactual outcome. For this reason, **causal effects need to be inferred** ***or discerned,*** not measured ... those things that are merely measurable can certainly help support or pay for resources on the push toward a causal effect, but the measurables are not THE GOAL.
 
-# The Full Ishikawa of WHYS or Interest Shaping My WHY
+# The History of PRACTICAL Applied Causal Inference ... Starting With The Full Ishikawa
 
 In order to organize and prioritize the contributing factors to your overarching causal effect or goal or life's purpose, a great way to start is by building an Ishikawa (fishbone) cause-and-effect diagram to visually map out the 10 top-priority facets (or "lesser WHYS") that support your larger agenda (the "BIG WHY"). 
 
