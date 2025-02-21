@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "What Have We Learned"
-date:   2025-12-01 4:30:00
+title:  "Ziglar-Tracy SMART Goal Categorization Prioritizing My WHYs"
+date:   2025-05-01 4:30:00
 categories: template
 ---
 
