@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "It's mostly about what you remove."
-date:   2025-02-01 4:30:00
+date:   2025-03-01 4:30:00
 categories: template
 ---
+
 
 
 *It's mostly about what you remove.*

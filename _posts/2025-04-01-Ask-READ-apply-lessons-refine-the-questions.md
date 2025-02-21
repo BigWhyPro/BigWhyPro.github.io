@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Ask the best in world; READ the resonse, apply the lessons, then refine the question"
-date:   2025-03-01 4:30:00
+date:   2025-04-01 4:30:00
 categories: template
 ---
 
 
-## Become AI Savvy -- Ask Many, Many More Questions
+## Becoming AI Savvy MEANS Asking Many, Many, Many MORE Questions
 
-We have been culturally trained that we need to do our own work and not *steal the answers from somebody else* ... that will not work in the future.
+We have been culturally trained that we need to do our own work and not *steal the answers from somebody else* ... that sort of egocentric personal pride-in-workmanship will not work in the future, ie you will need to ASK for help ... and you will have to get a lot better at specifically asking for exactly what kind of help or ideas you need.
 
 If you have not already done so, **STOP thinking that you need to invent or come up with** ***everything.*** **yourself**. 
 
