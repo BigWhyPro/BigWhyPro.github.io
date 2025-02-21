@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CHEERFULLY PAY YOUR TAXES! If you can't be genuinely cheerful about CERTAINTIES ... fake it, until you make it."
+title:  "CHEERFULLY PAY YOUR TAXES! If you can't be genuinely cheerful about such CERTAINTIES, then ... fake it, until you make it."
 date:   2025-02-01 4:30:00
 categories: template
 ---
