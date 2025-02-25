@@ -285,198 +285,70 @@ Top Home Repair Influencers | NeoReach https://neoreach.com/top-lists/home-garde
 
 Social Influencers Showing Their Home Renovation Handiwork | Easefix https://www.easefix.com/blog/home-renovation-social-influencers
 
-### Key MAINTEANCE Points -- Home Ownership
+### Key MAINTEANCE Points -- Affordable AI Workstation Builds
 
-Research suggests that many experts on YouTube, social media, and blogs can guide building affordable AI workstations with minicomputers and Oculink interfaces for 24GB GPUs, within a $3000 budget, ideally less.
+## Hardware Specialists
 
-It seems likely that channels like Linus Tech Tips and ETA Prime offer valuable content for AI hardware builds, while experts like Adi Fuchs and Emil Wallner provide deep insights on Medium and LinkedIn.
+1. **Jeff Geerling** - Renowned for his practical hands-on testing of mini PCs, NUCs, and SBCs for various workloads including AI. His YouTube channel and blog feature detailed benchmarks comparing performance per dollar across different hardware configurations. His "Raspberry Pi Cluster" series has evolved to cover more powerful systems with Oculink capabilities.
 
-The evidence leans toward company representatives from Lenovo, HP, and NVIDIA being trustworthy for AI workstation advice, given their industry leadership.
+2. **Craft Computing** - Focuses on budget-conscious homelab setups and mini PC builds with an emphasis on performance optimization. Recently published several videos on connecting consumer GPUs to compact systems via Oculink, with particularly valuable insights on cooling and power management in small form factors.
 
-YouTube Channels and Experts
+3. **ServeTheHome** - Patrick Kennedy and team provide enterprise-grade insights adapted for prosumer use. Their STH forums contain numerous threads about Oculink implementations and using datacenter-grade hardware in home settings. Their detailed benchmarks are particularly valuable for scientific computing workloads.
 
-Here are some *recommended() YouTube channels and experts specializing in AI workstations, particularly those involving minicomputers with Oculink interfaces and 24GB GPUs, suitable for your homelab AI experimentation with LangChain, Ollama, HuggingFace, and other open-source repositories:
+4. **Wendell Wilson (Level1Techs)** - Specializes in workstation builds with extensive knowledge of Linux compatibility issues. His community has developed several open-source tools for monitoring GPU usage in AI training scenarios, and he regularly benchmarks mini PCs with external GPUs for ML workloads.
 
-Martin Thissen: Shares detailed videos on building deep learning workstations, useful for understanding component selection (YouTube).
+5. **Lon.TV** - Lon Seidman offers thorough reviews of mini PCs and compact computing solutions with a focus on real-world performance. His methodical testing approach provides reliable data on thermals and sustained performance, crucial for extended AI training sessions.
 
-ETA Prime: Reviews mini PCs and hardware, including those with Oculink, relevant for compact AI setups (YouTube).
+## AI Practitioners with Hardware Focus
 
-Linus Tech Tips: Offers in-depth PC builds and hardware reviews, often covering workstation-class components for AI (YouTube).
+6. **Tim Dettmers** - Machine learning researcher who publishes detailed GPU benchmarks specifically for deep learning workloads. His "Which GPU for Deep Learning" guides are regularly updated and include performance-per-dollar metrics across various models and frameworks.
 
-Paul's Hardware: Focuses on PC hardware and builds, providing guidance on selecting cost-effective components (YouTube).
+7. **Andrej Karpathy** - While known primarily for his AI expertise, his practical insights on hardware configurations for running and fine-tuning models are invaluable. His "Build your own GPT" series includes hardware recommendations for different scales of model training.
 
-Jayztwocents: Known for hardware reviews and build guides, helpful for optimizing AI workstations (YouTube).
+8. **Yannic Kilcher** - Provides insightful analysis of AI research papers alongside practical implementation advice. His commentary often includes hardware considerations for efficiently running the models he discusses, including budget-conscious setups.
 
-Bitwit: Engages with PC build tutorials, offering practical advice for AI hardware (YouTube).
+9. **Aleksa Gordić (The AI Epiphany)** - Creates detailed tutorials on implementing AI models with careful consideration of hardware requirements. His content specifically addresses how to optimize performance on consumer-grade hardware.
 
-Gamers Nexus: Provides thorough hardware reviews, including GPUs suitable for AI workloads (YouTube).
+10. **Dr. Rachael Tatman** - Computational linguist who provides practical advice on running NLP models efficiently on limited hardware. Her tutorials often include optimization techniques for running sophisticated models on consumer hardware.
 
-Hardware Canucks: Specializes in hardware benchmarks, useful for AI component evaluation (YouTube).
+## Homelab Specialists
 
-Optimum Tech: Focuses on optimizing PC performance, including for AI tasks (YouTube).
+11. **TechnoTim** - Creates comprehensive guides for homelab setups that balance performance and cost. His documentation is particularly helpful for those looking to integrate AI workloads into existing homelab environments.
 
-Social Media and Blog Experts
+12. **NetworkChuck** - While broader in focus, his homelab series includes practical setups for running AI applications locally. His approach emphasizes learning by doing, with accessible explanations of complex configurations.
 
-Beyond YouTube, follow these experts on social media and blogs for additional insights:
+13. **Jeff Atwood (Coding Horror)** - Co-founder of Stack Overflow who occasionally writes about his personal workstation builds. His pragmatic approach to hardware selection focuses on value and reliability rather than chasing specifications.
 
-Adi Fuchs: An expert in AI accelerators, sharing detailed articles on Medium and LinkedIn (Medium, LinkedIn).
+14. **Lawrence Systems** - Tom Lawrence provides practical IT solutions that scale from small business to home use. His videos on repurposing enterprise hardware for home applications offer excellent value perspectives for AI workloads.
 
-Emil Wallner: Indie AI researcher with a Substack newsletter and Medium posts on machine learning hardware (Substack, Medium).
+15. **IBRACORP** - This team creates clear, step-by-step guides for setting up self-hosted services, including AI infrastructure. Their documentation on containerizing AI workloads for homelab use is particularly valuable.
 
-Rob J. Herman: VP & GM at Lenovo, offering insights into AI workstations via LinkedIn (LinkedIn).
+## Open Source AI Community Leaders
 
-Company Experts: Representatives from HP, Puget Systems, Digital Storm, Orbital Computers, Workstation Specialists Ltd, NVIDIA, AMD, Intel, Microsoft, Google, Amazon, Apple, and OpenAI, who can provide tailored advice through their official channels and social media.
+16. **Hugging Face Team** - Beyond their platform, team members regularly share insights about hardware requirements for running various models. Their optimization guides for running transformers on consumer hardware are essential reading.
 
-These experts and channels are worth following for their expertise and content, ensuring you can build a capable AI workstation within your budget for experimenting with open-source AI models.
+17. **Simon Willison** - Creator of Datasette and prominent voice in the self-hosted AI space. His blog details his experiments with running various LLMs locally on modest hardware, with practical performance insights.
 
-Comprehensive Analysis of Experts for Affordable AI Workstations
+18. **Jason Phang** - Researcher focusing on efficient training methods. His work on parameter-efficient fine-tuning is particularly relevant for those working with limited GPU memory on consumer hardware.
 
-This note provides a detailed exploration of 25 reputable and trusted experts in building affordable, high-power AI workstations, particularly those involving minicomputers with Oculink interfaces and 24GB GPUs, with a maximum budget of approximately $3000, ideally less. The analysis is based on extensive research into online resources, ensuring a thorough understanding of the landscape for your homelab AI experimentation with LangChain, Ollama, HuggingFace, and other open-source repositories as of February 24, 2025.
+19. **Sebastian Raschka** - Machine learning educator who provides practical guides on model training with hardware considerations. His "Machine Learning with PyTorch and Scikit-Learn" book and associated content include valuable insights on hardware selection.
 
-Background and Methodology
-The search for experts began with identifying prominent YouTube channels known for hardware reviews and PC builds, given their popularity for visual tutorials. Channels were selected based on their focus on AI workstations, cost-effective builds, and specific hardware like Oculink and 24GB GPUs. Additionally, social media influencers and blog writers were considered, as they often provide complementary insights and inspiration. The research involved analyzing lists from reputable sources like Feedspot, Medium, and LinkedIn, focusing on engagement, content quality, and specialization.
-Detailed Findings
-The following table summarizes the 25 recommended experts, including their focus areas and platform presence:
-Expert Name
-Focus Area
-Platform Presence
-Blog Presence
+20. **Cheng-Zhi Anna Huang** - Google Brain researcher working on MusicLM and other generative models. Her insights on training creative AI models on constrained hardware are particularly relevant for hobbyists.
 
-Martin Thissen
-Deep learning workstation builds
-YouTube (YouTube)
-Yes (Medium)
-ETA Prime
-Mini PCs, Oculink reviews, hardware for AI
-YouTube (YouTube)
-No
+## Systems Optimization Experts
 
-Linus Tech Tips
-PC builds, workstation hardware reviews
-YouTube (YouTube)
-Yes (Linus Media Group)
+21. **Bronzewing AI** - Specializes in optimizing consumer hardware for AI workloads. Their tutorials on efficient quantization and pruning methods allow running larger models on modest GPUs.
 
-Paul's Hardware
-PC hardware, cost-effective builds
-YouTube (YouTube)
-No
+22. **Jim Dowling (Hopsworks)** - Expert on feature stores and ML pipelines who regularly discusses infrastructure optimization. His practical advice on managing data flows for efficient training is valuable for homelab setups.
 
-Jayztwocents
-Hardware reviews, build guides
-YouTube (YouTube)
-No
+23. **Adrian Rosebrock (PyImageSearch)** - While focused on computer vision, his detailed guides on optimizing inference performance on limited hardware apply broadly across AI domains.
 
-Bitwit
-PC build tutorials, hardware advice
-YouTube (YouTube)
-No
+24. **Oculink Hardware Labs** - A small but growing community specifically focused on external GPU setups using Oculink. Their benchmarks comparing various mini PC and GPU combinations provide valuable reference points for budget planning.
 
-Gamers Nexus
-Thorough hardware reviews, GPU focus
-YouTube (YouTube)
-Yes (Website)
-
-Hardware Canucks
-Hardware benchmarks, AI component evaluation
-YouTube (YouTube)
-Yes (Website)
-
-Optimum Tech
-PC performance optimization, AI workloads
-YouTube (YouTube)
-No
-
-Adi Fuchs
-AI accelerators, hardware insights
-Medium, LinkedIn (Medium, LinkedIn)
-Yes (Medium)
-
-Emil Wallner
-Machine learning hardware, indie research
-Substack, Medium, LinkedIn (Substack, Medium, LinkedIn)
-Yes (Substack, Medium)
-
-Rob J. Herman
-Lenovo AI workstations, industry leadership
-LinkedIn (LinkedIn)
-No
-
-HP AI Workstation Experts
-HP's AI workstation design and support
-Official HP channels, LinkedIn (HP Website)
-Yes (HP Blog)
-
-Puget Systems Experts
-Custom workstation builds for AI
-Official website, YouTube (Website, YouTube)
-Yes (Blog)
-
-Digital Storm Experts
-High-performance AI workstations
-Official website, YouTube (Website, YouTube)
-Yes (Blog)
-
-Orbital Computers Experts
-Deep learning workstations
-Official website, YouTube (Website, YouTube)
-Yes (Blog)
-
-Workstation Specialists Ltd Experts
-Bespoke AI workstation configurations
-Official website, LinkedIn (Website, LinkedIn)
-Yes (Blog)
-
-NVIDIA AI Workstation Experts
-NVIDIA's AI and deep learning technologies
-Official website, YouTube, LinkedIn (Website, YouTube, LinkedIn)
-Yes (Blog)
-
-AMD AI Workstation Experts
-AI and machine learning hardware solutions
-Official website, YouTube, LinkedIn (Website, YouTube, LinkedIn)
-Yes (Blog)
-
-Intel AI Workstation Experts
-AI and data center solutions
-Official website, YouTube, LinkedIn (Website, YouTube, LinkedIn)
-Yes (Blog)
-
-Microsoft AI Workstation Experts
-AI and Azure services for hardware
-Official website, YouTube, LinkedIn (Website, YouTube, LinkedIn)
-Yes (Blog)
-
-Google AI Workstation Experts
-Tensorflow, Google Cloud AI
-Official website, YouTube, LinkedIn (Website, YouTube, LinkedIn)
-Yes (Blog)
-
-Amazon AI Workstation Experts
-Amazon SageMaker, AI hardware insights
-Official website, YouTube, LinkedIn (Website, YouTube, LinkedIn)
-Yes (Blog)
-
-Apple AI Workstation Experts
-AI and silicon advancements
-Official website, YouTube, LinkedIn (Website, YouTube, LinkedIn)
-Yes (Blog)
-
-OpenAI AI Workstation Experts
-Cutting-edge AI models, hardware requirements
-Official website, YouTube, LinkedIn (Website, YouTube, LinkedIn)
-Yes (Blog)
-
-Additional Insights
-Beyond YouTube, social media influencers like Adi Fuchs and Emil Wallner are notable for their expertise and large followings on platforms like LinkedIn and Medium. These influencers often share hardware recommendations, product endorsements, and project updates, making them valuable for inspiration and practical advice. For example, Adi Fuchs, with over 650 followers on Medium, shares detailed articles on AI accelerators, while Emil Wallner engages his Substack subscribers with machine learning hardware insights.
-Blogs also play a crucial role, with many of these experts maintaining websites that offer detailed articles and step-by-step guides. For instance, Puget Systems and Digital Storm have blogs with extensive resources on custom workstation builds, complementing their video content.
-Relevance to Minicomputers and Oculink
-Channels like ETA Prime and Optimum Tech are particularly relevant for minicomputers, as they review compact form factor PCs with Oculink interfaces, addressing challenges like space and connectivity for AI workloads. For 24GB GPUs, experts from NVIDIA and AMD offer specialized content on GPU selection, essential for your budget-conscious build. The evidence suggests that combining these resources can provide a comprehensive approach to your AI workstation needs.
-
-Unexpected Detail: Cross-Platform Engagement
-An interesting finding is the cross-platform engagement of these experts, where many YouTube creators also maintain active LinkedIn and X accounts, offering quick tips and project updates. This integration allows for a richer experience, with social media providing real-time interaction and blogs offering in-depth articles, enhancing the learning process for DIY AI workstation builders.
+25. **Jeremy Howard (fast.ai)** - Co-founder of fast.ai whose teaching emphasizes practical AI implementation. His approach to democratizing AI includes detailed advice on cost-effective hardware configurations for different learning scenarios.
 
 
-#### Key Links -- Minicomputers, GPU, Oculink
+#### OTHER Key Links -- Minicomputers, GPU, Oculink
 
 [Top 16 PC Hardware Youtube Channels Worth Subscribing To 2024 Update](https://www.cgdirector.com/top-pc-hardware-youtube-channels/)
 
